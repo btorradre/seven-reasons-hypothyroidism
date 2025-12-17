@@ -113,29 +113,35 @@ export default function Index() {
         <article className="space-y-16">
           {/* Item 1 */}
           <section className="scroll-mt-20">
-            <div className="mb-6">
-              <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2477cc88aa41412ab116ccfc8555619a?format=webp&width=800"
-                alt="Lunessa vs Statins comparison showing raspberry gummies with clinical dose and prescription bottle"
-                className="w-full rounded-lg shadow-lg"
-              />
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Image on the left */}
+              <div>
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2477cc88aa41412ab116ccfc8555619a?format=webp&width=800"
+                  alt="Lunessa vs Statins comparison showing raspberry gummies with clinical dose and prescription bottle"
+                  className="w-full rounded-lg shadow-lg"
+                />
+              </div>
+
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  1. Clinical-Dose Red Yeast Rice (2400mg) vs. Statin's Identical Mechanism Without the Protection
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statins block your body's cholesterol production but strip away CoQ10 — the vital nutrient your cells need for energy production. This creates the "zombie effect" statin users describe.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Lunessa provides the full 2400mg therapeutic dose of red yeast rice naturally containing monacolin K (the same active compound in lovastatin) PLUS 200mg of CoQ10 per serving — protecting your cellular energy while managing cholesterol.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Finally address your genetic cholesterol with the nutrient pair your body actually needs, not just cholesterol suppression that steals your energy.
+                </p>
+              </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              1. Clinical-Dose Red Yeast Rice (2400mg) vs. Statin's Identical Mechanism Without the Protection
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statins block your body's cholesterol production but strip away CoQ10 — the vital nutrient your cells need for energy production. This creates the "zombie effect" statin users describe.
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Lunessa provides the full 2400mg therapeutic dose of red yeast rice naturally containing monacolin K (the same active compound in lovastatin) PLUS 200mg of CoQ10 per serving — protecting your cellular energy while managing cholesterol.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Finally address your genetic cholesterol with the nutrient pair your body actually needs, not just cholesterol suppression that steals your energy.
-            </p>
           </section>
 
           {/* Item 2 */}
