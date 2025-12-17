@@ -146,199 +146,223 @@ export default function Index() {
 
           {/* Item 2 */}
           <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 mb-6">
-              <div className="bg-slate-900 rounded-lg overflow-hidden shadow-lg">
-                <div className="p-6">
-                  <div className="flex items-center gap-2 mb-4">
-                    <svg className="w-6 h-6 text-teal-400" viewBox="0 0 24 24" fill="currentColor">
-                      <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/>
-                    </svg>
-                    <span className="text-white font-bold">Lunessa</span>
-                  </div>
-                  <div className="relative h-48 bg-gradient-to-br from-slate-800 to-slate-700 rounded-lg flex items-center justify-center mb-4">
-                    <svg className="w-32 h-32 text-teal-400/30" viewBox="0 0 100 100">
-                      <path d="M50 10 C30 10 20 25 20 40 C20 50 25 60 35 65 L40 90 L50 95 L60 90 L65 65 C75 60 80 50 80 40 C80 25 70 10 50 10 Z" fill="currentColor"/>
-                    </svg>
-                  </div>
-                  <div className="space-y-2">
-                    <div className="flex items-center gap-2 text-green-400 text-sm">
-                      <Check className="w-4 h-4" />
-                      <span>SUSTAINED ENERGY</span>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Visuals on the left */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="bg-slate-900 rounded-lg overflow-hidden shadow-lg">
+                  <div className="p-6">
+                    <div className="flex items-center gap-2 mb-4">
+                      <svg className="w-6 h-6 text-teal-400" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/>
+                      </svg>
+                      <span className="text-white font-bold">Lunessa</span>
                     </div>
-                    <div className="flex items-center gap-2 text-green-400 text-sm">
-                      <Check className="w-4 h-4" />
-                      <span>CELLULAR PROTECTION</span>
+                    <div className="relative h-48 bg-gradient-to-br from-slate-800 to-slate-700 rounded-lg flex items-center justify-center mb-4">
+                      <svg className="w-32 h-32 text-teal-400/30" viewBox="0 0 100 100">
+                        <path d="M50 10 C30 10 20 25 20 40 C20 50 25 60 35 65 L40 90 L50 95 L60 90 L65 65 C75 60 80 50 80 40 C80 25 70 10 50 10 Z" fill="currentColor"/>
+                      </svg>
                     </div>
-                    <div className="flex items-center gap-2 text-green-400 text-sm">
-                      <Check className="w-4 h-4" />
-                      <span>NO FATIGUE</span>
+                    <div className="space-y-2">
+                      <div className="flex items-center gap-2 text-green-400 text-sm">
+                        <Check className="w-4 h-4" />
+                        <span>SUSTAINED ENERGY</span>
+                      </div>
+                      <div className="flex items-center gap-2 text-green-400 text-sm">
+                        <Check className="w-4 h-4" />
+                        <span>CELLULAR PROTECTION</span>
+                      </div>
+                      <div className="flex items-center gap-2 text-green-400 text-sm">
+                        <Check className="w-4 h-4" />
+                        <span>NO FATIGUE</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="bg-slate-900 rounded-lg overflow-hidden shadow-lg">
+                  <div className="p-6">
+                    <div className="text-white font-bold mb-4">Statins</div>
+                    <div className="relative h-48 bg-gradient-to-br from-red-900/50 to-slate-800 rounded-lg flex items-center justify-center mb-4">
+                      <svg className="w-32 h-32 text-red-500/30" viewBox="0 0 100 100">
+                        <path d="M50 10 C30 10 20 25 20 40 C20 50 25 60 35 65 L40 90 L50 95 L60 90 L65 65 C75 60 80 50 80 40 C80 25 70 10 50 10 Z" fill="currentColor"/>
+                        <circle cx="50" cy="40" r="25" fill="rgba(239, 68, 68, 0.3)"/>
+                      </svg>
+                    </div>
+                    <div className="space-y-2">
+                      <div className="flex items-center gap-2 text-red-400 text-sm">
+                        <span className="text-lg">×</span>
+                        <span>CHRONIC FATIGUE</span>
+                      </div>
+                      <div className="flex items-center gap-2 text-red-400 text-sm">
+                        <span className="text-lg">×</span>
+                        <span>MUSCLE PAIN</span>
+                      </div>
+                      <div className="flex items-center gap-2 text-red-400 text-sm">
+                        <span className="text-lg">×</span>
+                        <span>BRAIN FOG</span>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
 
-              <div className="bg-slate-900 rounded-lg overflow-hidden shadow-lg">
-                <div className="p-6">
-                  <div className="text-white font-bold mb-4">Statins</div>
-                  <div className="relative h-48 bg-gradient-to-br from-red-900/50 to-slate-800 rounded-lg flex items-center justify-center mb-4">
-                    <svg className="w-32 h-32 text-red-500/30" viewBox="0 0 100 100">
-                      <path d="M50 10 C30 10 20 25 20 40 C20 50 25 60 35 65 L40 90 L50 95 L60 90 L65 65 C75 60 80 50 80 40 C80 25 70 10 50 10 Z" fill="currentColor"/>
-                      <circle cx="50" cy="40" r="25" fill="rgba(239, 68, 68, 0.3)"/>
-                    </svg>
-                  </div>
-                  <div className="space-y-2">
-                    <div className="flex items-center gap-2 text-red-400 text-sm">
-                      <span className="text-lg">×</span>
-                      <span>CHRONIC FATIGUE</span>
-                    </div>
-                    <div className="flex items-center gap-2 text-red-400 text-sm">
-                      <span className="text-lg">×</span>
-                      <span>MUSCLE PAIN</span>
-                    </div>
-                    <div className="flex items-center gap-2 text-red-400 text-sm">
-                      <span className="text-lg">×</span>
-                      <span>BRAIN FOG</span>
-                    </div>
-                  </div>
-                </div>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  2. Blocks Cholesterol Production Without Destroying Your Mitochondria
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statins deplete your body's CoQ10 by up to <span className="font-bold">40% within weeks</span> — the same nutrient your heart, brain, and muscles need to function. This is why <span className="font-bold">78% of long-term statin users</span> report debilitating fatigue described as "can barely get out of bed" or "feel like I'm 90 years old."
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  This complete formula works synergistically to manage cholesterol production while replenishing the CoQ10 statins destroy — delivering cardiovascular support where needed while preserving cellular energy.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Experience actual cholesterol management with sustained energy instead of trading one problem for another.
+                </p>
               </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              2. Blocks Cholesterol Production Without Destroying Your Mitochondria
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statins deplete your body's CoQ10 by up to <span className="font-bold">40% within weeks</span> — the same nutrient your heart, brain, and muscles need to function. This is why <span className="font-bold">78% of long-term statin users</span> report debilitating fatigue described as "can barely get out of bed" or "feel like I'm 90 years old."
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              This complete formula works synergistically to manage cholesterol production while replenishing the CoQ10 statins destroy — delivering cardiovascular support where needed while preserving cellular energy.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Experience actual cholesterol management with sustained energy instead of trading one problem for another.
-            </p>
           </section>
 
           {/* Item 3 */}
           <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 mb-6">
-              <div className="rounded-lg overflow-hidden shadow-lg">
-                <img src="/placeholder.svg" alt="Woman outdoors healthy" className="w-full h-64 object-cover bg-gradient-to-br from-amber-100 to-orange-200" />
-              </div>
-              <div className="rounded-lg overflow-hidden shadow-lg">
-                <img src="/placeholder.svg" alt="Weight gain comparison" className="w-full h-64 object-cover bg-gradient-to-br from-blue-100 to-teal-200" />
-                <div className="bg-white p-4 text-center border-t-4 border-red-500">
-                  <p className="text-red-600 font-bold text-sm">42lbs weight gain after Lipitor for only 8 months...</p>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Images on the left */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="rounded-lg overflow-hidden shadow-lg">
+                  <img src="/placeholder.svg" alt="Woman outdoors healthy" className="w-full h-64 object-cover bg-gradient-to-br from-amber-100 to-orange-200" />
+                </div>
+                <div className="rounded-lg overflow-hidden shadow-lg">
+                  <img src="/placeholder.svg" alt="Weight gain comparison" className="w-full h-64 object-cover bg-gradient-to-br from-blue-100 to-teal-200" />
+                  <div className="bg-white p-4 text-center border-t-4 border-red-500">
+                    <p className="text-red-600 font-bold text-sm">42lbs weight gain after Lipitor for only 8 months...</p>
+                  </div>
                 </div>
               </div>
+
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  3. Lowers LDL Without The 40-Pound Weight Gain
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statin patients with FH report gaining <span className="font-bold">15-40 pounds within the first year</span>, with <span className="font-bold">84% experiencing significant weight gain</span> despite maintaining their strict diets — a cruel irony for women who've spent years perfecting their nutrition.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Clinical-strength red yeast rice works to inhibit cholesterol synthesis and reduce inflammation — with <span className="font-semibold">ZERO metabolic disruption</span> and no reported weight gain in studies. The gummy format ensures consistent daily compliance without the nausea pills cause.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Users report 20-30% LDL reduction within 8-12 weeks while maintaining their hard-earned healthy weight and energy.
+                </p>
+              </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              3. Lowers LDL Without The 40-Pound Weight Gain
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statin patients with FH report gaining <span className="font-bold">15-40 pounds within the first year</span>, with <span className="font-bold">84% experiencing significant weight gain</span> despite maintaining their strict diets — a cruel irony for women who've spent years perfecting their nutrition.
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Clinical-strength red yeast rice works to inhibit cholesterol synthesis and reduce inflammation — with <span className="font-semibold">ZERO metabolic disruption</span> and no reported weight gain in studies. The gummy format ensures consistent daily compliance without the nausea pills cause.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Users report 20-30% LDL reduction within 8-12 weeks while maintaining their hard-earned healthy weight and energy.
-            </p>
           </section>
 
           {/* Item 4 */}
           <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 mb-6">
-              <div className="rounded-lg overflow-hidden shadow-lg">
-                <img src="/placeholder.svg" alt="Happy woman with gummies" className="w-full h-64 object-cover bg-gradient-to-br from-green-100 to-emerald-200" />
-                <div className="bg-teal-600 text-white p-3 text-center">
-                  <span className="font-bold">Lunessa</span>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Images on the left */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="rounded-lg overflow-hidden shadow-lg">
+                  <img src="/placeholder.svg" alt="Happy woman with gummies" className="w-full h-64 object-cover bg-gradient-to-br from-green-100 to-emerald-200" />
+                  <div className="bg-teal-600 text-white p-3 text-center">
+                    <span className="font-bold">Lunessa</span>
+                  </div>
+                </div>
+                <div className="rounded-lg overflow-hidden shadow-lg">
+                  <img src="/placeholder.svg" alt="Distressed woman with pills" className="w-full h-64 object-cover bg-gradient-to-br from-red-200 to-orange-300" />
+                  <div className="bg-slate-700 text-white p-3 text-center">
+                    <span className="font-bold">Statins</span>
+                  </div>
                 </div>
               </div>
-              <div className="rounded-lg overflow-hidden shadow-lg">
-                <img src="/placeholder.svg" alt="Distressed woman with pills" className="w-full h-64 object-cover bg-gradient-to-br from-red-200 to-orange-300" />
-                <div className="bg-slate-700 text-white p-3 text-center">
-                  <span className="font-bold">Statins</span>
-                </div>
+
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  4. Natural Compliance Without Prescription Dependency
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statins require lifelong prescriptions, endless doctor appointments where you're dismissed as "anxious," and insurance battles — all while feeling worse than before you started. <span className="font-bold">38% of adults struggle to swallow pills</span>, leading to missed doses and guilt.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  This pharmaceutical-grade gummy formula makes daily adherence effortless with raspberry flavor you'll actually enjoy — <span className="font-semibold">zero dependency, zero doctor gatekeeping, and zero withdrawal</span> if you choose to stop.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Take control of your cholesterol journey in as little as 8 weeks — and maintain the freedom to manage your health on your own terms.
+                </p>
               </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              4. Natural Compliance Without Prescription Dependency
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statins require lifelong prescriptions, endless doctor appointments where you're dismissed as "anxious," and insurance battles — all while feeling worse than before you started. <span className="font-bold">38% of adults struggle to swallow pills</span>, leading to missed doses and guilt.
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              This pharmaceutical-grade gummy formula makes daily adherence effortless with raspberry flavor you'll actually enjoy — <span className="font-semibold">zero dependency, zero doctor gatekeeping, and zero withdrawal</span> if you choose to stop.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Take control of your cholesterol journey in as little as 8 weeks — and maintain the freedom to manage your health on your own terms.
-            </p>
           </section>
 
           {/* Item 5 */}
           <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 mb-6">
-              <div className="bg-white rounded-lg p-6 shadow-lg border border-slate-200">
-                <div className="mb-4">
-                  <svg className="w-12 h-12 text-teal-600 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-                  </svg>
-                  <div className="text-teal-600 font-bold mb-1">Lunessa</div>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Comparison cards on the left */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="bg-white rounded-lg p-6 shadow-lg border border-slate-200">
+                  <div className="mb-4">
+                    <svg className="w-12 h-12 text-teal-600 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                    </svg>
+                    <div className="text-teal-600 font-bold mb-1">Lunessa</div>
+                  </div>
+                  <div className="space-y-3">
+                    <div className="flex items-start gap-2">
+                      <Check className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
+                      <p className="text-sm">Third-party tested</p>
+                    </div>
+                    <div className="flex items-start gap-2">
+                      <Check className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
+                      <p className="text-sm">Citrinin-free certified</p>
+                    </div>
+                    <div className="flex items-start gap-2">
+                      <Check className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
+                      <p className="text-sm">Pharmaceutical-grade precision</p>
+                    </div>
+                  </div>
                 </div>
-                <div className="space-y-3">
-                  <div className="flex items-start gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                    <p className="text-sm">Third-party tested</p>
-                  </div>
-                  <div className="flex items-start gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                    <p className="text-sm">Citrinin-free certified</p>
-                  </div>
-                  <div className="flex items-start gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                    <p className="text-sm">Pharmaceutical-grade precision</p>
+
+                <div className="bg-slate-100 rounded-lg p-6 shadow-lg border border-slate-300 flex items-center justify-center">
+                  <div className="text-center">
+                    <div className="text-6xl mb-4">⚠️</div>
+                    <div className="space-y-2">
+                      <div className="bg-red-100 text-red-800 px-4 py-2 rounded text-sm font-semibold">SIDE EFFECTS</div>
+                      <div className="bg-red-100 text-red-800 px-4 py-2 rounded text-sm font-semibold">WARNING LABEL</div>
+                      <p className="text-slate-600 font-bold mt-4">Statins</p>
+                    </div>
                   </div>
                 </div>
               </div>
 
-              <div className="bg-slate-100 rounded-lg p-6 shadow-lg border border-slate-300 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-6xl mb-4">⚠️</div>
-                  <div className="space-y-2">
-                    <div className="bg-red-100 text-red-800 px-4 py-2 rounded text-sm font-semibold">SIDE EFFECTS</div>
-                    <div className="bg-red-100 text-red-800 px-4 py-2 rounded text-sm font-semibold">WARNING LABEL</div>
-                    <p className="text-slate-600 font-bold mt-4">Statins</p>
-                  </div>
-                </div>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  5. Third-Party Tested Purity vs. Big Pharma's Patent Games
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statins were designed to maximize patent protection and profit margins — not to preserve your quality of life. The medical establishment admits statins cause muscle pain, cognitive decline, and diabetes risk but dismisses these as "acceptable trade-offs."
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Every batch of Lunessa is <span className="font-semibold">third-party tested and certified citrinin-free</span> using pharmaceutical-grade precision — the same purity standards European doctors demand. Red yeast rice at clinical doses (2400mg) with protective CoQ10 (200mg).
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Get professional-grade formulation designed specifically for genetic cholesterol management, not repurposed drugs with devastating side effects.
+                </p>
               </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              5. Third-Party Tested Purity vs. Big Pharma's Patent Games
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statins were designed to maximize patent protection and profit margins — not to preserve your quality of life. The medical establishment admits statins cause muscle pain, cognitive decline, and diabetes risk but dismisses these as "acceptable trade-offs."
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Every batch of Lunessa is <span className="font-semibold">third-party tested and certified citrinin-free</span> using pharmaceutical-grade precision — the same purity standards European doctors demand. Red yeast rice at clinical doses (2400mg) with protective CoQ10 (200mg).
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Get professional-grade formulation designed specifically for genetic cholesterol management, not repurposed drugs with devastating side effects.
-            </p>
           </section>
 
           {/* CTA Section 1 */}
