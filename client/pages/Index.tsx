@@ -519,44 +519,50 @@ export default function Index() {
 
           {/* Item 8 */}
           <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 mb-6">
-              <div className="bg-gradient-to-br from-slate-800 to-blue-900 rounded-lg p-6 shadow-lg">
-                <div className="bg-white rounded-lg p-4 mb-4">
-                  <img src="/placeholder.svg" alt="Product bottle" className="w-full h-32 object-contain bg-gradient-to-br from-teal-50 to-cyan-50 rounded" />
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Comparison cards on the left */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="bg-gradient-to-br from-slate-800 to-blue-900 rounded-lg p-6 shadow-lg">
+                  <div className="bg-white rounded-lg p-4 mb-4">
+                    <img src="/placeholder.svg" alt="Product bottle" className="w-full h-32 object-contain bg-gradient-to-br from-teal-50 to-cyan-50 rounded" />
+                  </div>
+                  <div className="text-white text-center">
+                    <p className="font-bold">Lunessa</p>
+                    <p className="text-sm text-teal-300">Cholesterol Gummies</p>
+                  </div>
                 </div>
-                <div className="text-white text-center">
-                  <p className="font-bold">Lunessa</p>
-                  <p className="text-sm text-teal-300">Cholesterol Gummies</p>
-                </div>
-              </div>
 
-              <div className="bg-gradient-to-br from-red-900 to-orange-900 rounded-lg p-6 shadow-lg flex items-center justify-center">
-                <div className="text-center text-white">
-                  <div className="text-4xl mb-4">😵‍💫</div>
-                  <div className="space-y-2 text-sm">
-                    <p className="font-semibold">"Couldn't remember my kids' names"</p>
-                    <p className="font-semibold">"Felt like early Alzheimer's"</p>
-                    <p className="font-semibold">"Thought I was losing my mind"</p>
+                <div className="bg-gradient-to-br from-red-900 to-orange-900 rounded-lg p-6 shadow-lg flex items-center justify-center">
+                  <div className="text-center text-white">
+                    <div className="text-4xl mb-4">😵‍💫</div>
+                    <div className="space-y-2 text-sm">
+                      <p className="font-semibold">"Couldn't remember my kids' names"</p>
+                      <p className="font-semibold">"Felt like early Alzheimer's"</p>
+                      <p className="font-semibold">"Thought I was losing my mind"</p>
+                    </div>
                   </div>
                 </div>
               </div>
+
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  8. Supports Heart Health Without Cognitive Destruction
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statin users report severe cognitive impairment described as "couldn't remember my kids' names," "felt like early Alzheimer's," or "thought I was losing my mind" — especially terrifying for women watching parents decline with dementia.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Natural ingredients support cardiovascular function through the mevalonate pathway while preserving cognitive function and mental clarity your statins are stealing from you.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Wake up with sharp thinking and sustained energy instead of fighting statins' brain fog and memory loss.
+                </p>
+              </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              8. Supports Heart Health Without Cognitive Destruction
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statin users report severe cognitive impairment described as "couldn't remember my kids' names," "felt like early Alzheimer's," or "thought I was losing my mind" — especially terrifying for women watching parents decline with dementia.
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Natural ingredients support cardiovascular function through the mevalonate pathway while preserving cognitive function and mental clarity your statins are stealing from you.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Wake up with sharp thinking and sustained energy instead of fighting statins' brain fog and memory loss.
-            </p>
           </section>
 
           {/* Item 9 */}
