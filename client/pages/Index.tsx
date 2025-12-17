@@ -33,9 +33,9 @@ export default function Index() {
       {/* Top Banner */}
       <div className="bg-gradient-to-r from-[#7e1d22] to-[#6b1a1e] text-white py-3 px-4 sticky top-0 z-50 shadow-lg">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center justify-center gap-3 text-center">
-          <span className="font-bold text-sm sm:text-base">HOLIDAY SALE DEAL</span>
+          <span className="font-bold text-sm sm:text-base">BUY 2 GET 1 FREE</span>
           <span className="hidden sm:block text-white/60">|</span>
-          <span className="text-sm">SAVINGS + FREE GIFT</span>
+          <span className="text-sm">LIMITED TIME OFFER</span>
           <div className="flex gap-2 text-xs sm:text-sm font-mono">
             <div className="flex flex-col items-center">
               <span className="font-bold text-lg">{String(timeLeft.days).padStart(2, '0')}</span>
@@ -210,14 +210,14 @@ export default function Index() {
           <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="flex items-center justify-center gap-2 mb-6">
               <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
-                HOLIDAY SALE DEAL - SAVINGS + FREE GIFT
+                BUY 2 GET 1 FREE
               </Badge>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
+                <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
                   <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-48 object-contain mb-4 rounded" />
@@ -246,7 +246,7 @@ export default function Index() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>FREE Shipping + 90-Day Guarantee</span>
+                    <span>Free Shipping on Orders Over $50 + 90-Day Guarantee</span>
                   </li>
                 </ul>
               </div>
@@ -255,14 +255,14 @@ export default function Index() {
                 <div className="text-center mb-4">
                   <Badge variant="secondary" className="bg-red-500 text-white mb-2">
                     <Gift className="w-4 h-4 mr-1" />
-                    FREE GIFTS WITH ORDER
+                    BUY 2 GET 1 FREE
                   </Badge>
-                  <h4 className="text-2xl font-bold text-slate-900 mb-2">UP TO 54% OFF + FREE GIFTS FOR A LIMITED TIME ONLY</h4>
+                  <h4 className="text-2xl font-bold text-slate-900 mb-2">BUY 2 GET 1 FREE - LIMITED TIME ONLY</h4>
                   <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
                 </div>
 
                 <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
-                  54% OFF + FREE GIFTS →
+                  BUY 2 GET 1 FREE →
                 </Button>
 
                 <div className="flex items-center justify-between text-sm mb-4">
@@ -272,7 +272,7 @@ export default function Index() {
                   </div>
                   <div className="flex items-center gap-1">
                     <Check className="w-4 h-4 text-green-600" />
-                    <span className="font-semibold">FREE Shipping</span>
+                    <span className="font-semibold">Free Shipping on Orders Over $50</span>
                   </div>
                 </div>
 
@@ -345,14 +345,14 @@ export default function Index() {
           <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="flex items-center justify-center gap-2 mb-6">
               <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
-                HOLIDAY SALE DEAL
+                BUY 2 GET 1 FREE
               </Badge>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
+                <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
                   <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-48 object-contain mb-4 rounded" />
@@ -381,7 +381,7 @@ export default function Index() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>FREE Shipping + 90-Day Guarantee</span>
+                    <span>Free Shipping on Orders Over $50 + 90-Day Guarantee</span>
                   </li>
                 </ul>
               </div>
@@ -390,14 +390,14 @@ export default function Index() {
                 <div className="text-center mb-4">
                   <Badge variant="secondary" className="bg-red-500 text-white mb-2">
                     <Gift className="w-4 h-4 mr-1" />
-                    FREE GIFTS WITH ORDER
+                    BUY 2 GET 1 FREE
                   </Badge>
-                  <h4 className="text-2xl font-bold text-slate-900 mb-2">UP TO 54% OFF + FREE GIFTS FOR A LIMITED TIME ONLY</h4>
+                  <h4 className="text-2xl font-bold text-slate-900 mb-2">BUY 2 GET 1 FREE - LIMITED TIME ONLY</h4>
                   <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
                 </div>
 
                 <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
-                  54% OFF + FREE GIFTS →
+                  BUY 2 GET 1 FREE →
                 </Button>
 
                 <div className="flex items-center justify-between text-sm mb-4">
@@ -407,7 +407,7 @@ export default function Index() {
                   </div>
                   <div className="flex items-center gap-1">
                     <Check className="w-4 h-4 text-green-600" />
-                    <span className="font-semibold">FREE Shipping</span>
+                    <span className="font-semibold">Free Shipping on Orders Over $50</span>
                   </div>
                 </div>
 
@@ -567,14 +567,14 @@ export default function Index() {
           <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="flex items-center justify-center gap-2 mb-6">
               <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
-                HOLIDAY SALE DEAL
+                BUY 2 GET 1 FREE
               </Badge>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
+                <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
                   <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-48 object-contain mb-4 rounded" />
@@ -603,7 +603,7 @@ export default function Index() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>FREE Shipping + 90-Day Guarantee</span>
+                    <span>Free Shipping on Orders Over $50 + 90-Day Guarantee</span>
                   </li>
                 </ul>
               </div>
@@ -612,14 +612,14 @@ export default function Index() {
                 <div className="text-center mb-4">
                   <Badge variant="secondary" className="bg-red-500 text-white mb-2">
                     <Gift className="w-4 h-4 mr-1" />
-                    FREE GIFTS WITH ORDER
+                    BUY 2 GET 1 FREE
                   </Badge>
-                  <h4 className="text-2xl font-bold text-slate-900 mb-2">UP TO 54% OFF + FREE GIFTS FOR A LIMITED TIME ONLY</h4>
+                  <h4 className="text-2xl font-bold text-slate-900 mb-2">BUY 2 GET 1 FREE - LIMITED TIME ONLY</h4>
                   <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
                 </div>
 
                 <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
-                  54% OFF + FREE GIFTS →
+                  BUY 2 GET 1 FREE →
                 </Button>
 
                 <div className="flex items-center justify-between text-sm mb-4">
@@ -629,7 +629,7 @@ export default function Index() {
                   </div>
                   <div className="flex items-center gap-1">
                     <Check className="w-4 h-4 text-green-600" />
-                    <span className="font-semibold">FREE Shipping</span>
+                    <span className="font-semibold">Free Shipping on Orders Over $50</span>
                   </div>
                 </div>
 
