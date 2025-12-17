@@ -220,7 +220,7 @@ export default function Index() {
                 <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
-                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-rose-100 to-red-100 rounded" />
+                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-48 object-contain mb-4 rounded" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
@@ -355,7 +355,7 @@ export default function Index() {
                 <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
-                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-rose-100 to-red-100 rounded" />
+                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-48 object-contain mb-4 rounded" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
@@ -577,7 +577,7 @@ export default function Index() {
                 <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
-                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-rose-100 to-red-100 rounded" />
+                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-48 object-contain mb-4 rounded" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
