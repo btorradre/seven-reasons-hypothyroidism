@@ -113,40 +113,12 @@ export default function Index() {
         <article className="space-y-16">
           {/* Item 1 */}
           <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 mb-6">
-              <div className="bg-gradient-to-br from-teal-500 to-teal-600 rounded-lg p-8 text-white shadow-lg">
-                <div className="flex items-center gap-3 mb-6">
-                  <svg className="w-8 h-8" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/>
-                  </svg>
-                  <span className="text-xl font-bold">Lunessa</span>
-                </div>
-                <div className="bg-white/90 rounded-md p-4 mb-4">
-                  <div className="text-teal-700 text-3xl font-bold mb-1">2400mg RYR</div>
-                  <div className="text-teal-600 text-sm flex items-center gap-1">
-                    <Check className="w-4 h-4" />
-                    Clinical Dose
-                  </div>
-                </div>
-                <div className="bg-white/20 rounded-full px-4 py-2 text-center text-sm font-semibold">
-                  + 200mg CoQ10
-                </div>
-              </div>
-
-              <div className="bg-gradient-to-br from-slate-600 to-slate-700 rounded-lg p-8 text-white shadow-lg flex items-center justify-center relative overflow-hidden">
-                <div className="text-center">
-                  <div className="text-5xl font-bold mb-3">Statins</div>
-                  <div className="space-y-2">
-                    {[1,2,3,4,5,6,7,8].map((i) => (
-                      <div key={i} className="inline-block mx-1">
-                        <div className="w-8 h-8 bg-amber-500 rounded-full flex items-center justify-center text-sm font-bold animate-pulse" style={{ animationDelay: `${i * 0.1}s` }}>
-                          ?
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              </div>
+            <div className="mb-6">
+              <img
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2477cc88aa41412ab116ccfc8555619a?format=webp&width=800"
+                alt="Lunessa vs Statins comparison showing raspberry gummies with clinical dose and prescription bottle"
+                className="w-full rounded-lg shadow-lg"
+              />
             </div>
 
             <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
