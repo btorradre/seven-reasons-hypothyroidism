@@ -567,51 +567,57 @@ export default function Index() {
 
           {/* Item 9 */}
           <section className="scroll-mt-20">
-            <div className="bg-gradient-to-br from-teal-50 to-cyan-50 rounded-lg p-8 mb-6 shadow-md">
-              <div className="text-center mb-6">
-                <div className="inline-block bg-white rounded-full p-6 shadow-lg mb-4">
-                  <ShieldCheck className="w-16 h-16 text-teal-600" />
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Visual on the left */}
+              <div className="bg-gradient-to-br from-teal-50 to-cyan-50 rounded-lg p-8 shadow-md">
+                <div className="text-center mb-6">
+                  <div className="inline-block bg-white rounded-full p-6 shadow-lg mb-4">
+                    <ShieldCheck className="w-16 h-16 text-teal-600" />
+                  </div>
+                  <h3 className="text-xl font-bold text-slate-900 mb-2">Complete Transparency</h3>
                 </div>
-                <h3 className="text-xl font-bold text-slate-900 mb-2">Complete Transparency</h3>
+
+                <div className="grid grid-cols-2 gap-4 text-sm">
+                  <div className="bg-white rounded-lg p-4 shadow">
+                    <h4 className="font-bold mb-2 text-teal-700">What You Get:</h4>
+                    <ul className="space-y-1">
+                      <li>✓ Third-party tested</li>
+                      <li>✓ Citrinin-free certification</li>
+                      <li>✓ Complete ingredient transparency</li>
+                      <li>✓ No hidden side effects</li>
+                    </ul>
+                  </div>
+                  <div className="bg-white rounded-lg p-4 shadow">
+                    <h4 className="font-bold mb-2 text-slate-700">What You Avoid:</h4>
+                    <ul className="space-y-1">
+                      <li>✗ Muscle destruction</li>
+                      <li>✗ Cognitive decline</li>
+                      <li>✗ Corporate cover-ups</li>
+                      <li>✗ Lifetime dependency</li>
+                    </ul>
+                  </div>
+                </div>
               </div>
 
-              <div className="grid md:grid-cols-2 gap-6 text-sm">
-                <div className="bg-white rounded-lg p-4 shadow">
-                  <h4 className="font-bold mb-2 text-teal-700">What You Get:</h4>
-                  <ul className="space-y-1">
-                    <li>✓ Third-party tested</li>
-                    <li>✓ Citrinin-free certification</li>
-                    <li>✓ Complete ingredient transparency</li>
-                    <li>✓ No hidden side effects</li>
-                  </ul>
-                </div>
-                <div className="bg-white rounded-lg p-4 shadow">
-                  <h4 className="font-bold mb-2 text-slate-700">What You Avoid:</h4>
-                  <ul className="space-y-1">
-                    <li>✗ Muscle destruction</li>
-                    <li>✗ Cognitive decline</li>
-                    <li>✗ Corporate cover-ups</li>
-                    <li>✗ Lifetime dependency</li>
-                  </ul>
-                </div>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  9. Complete Transparency vs. Big Pharma's Denial of Side Effects
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Pharmaceutical companies <span className="font-bold">deliberately minimized statin side effects for over 30 years</span> — dismissing muscle pain as "rare" and cognitive decline as "unproven" while women suffered in silence, told they were "just stressed" or "getting older."
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Every batch undergoes <span className="font-semibold">rigorous third-party testing</span> with complete ingredient transparency and citrinin-free certification — no hidden side effects, no muscle destruction, no cognitive decline.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Trust ingredients clinically studied to support you, not corporate denials designed to protect billion-dollar drug profits.
+                </p>
               </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              9. Complete Transparency vs. Big Pharma's Denial of Side Effects
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Pharmaceutical companies <span className="font-bold">deliberately minimized statin side effects for over 30 years</span> — dismissing muscle pain as "rare" and cognitive decline as "unproven" while women suffered in silence, told they were "just stressed" or "getting older."
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Every batch undergoes <span className="font-semibold">rigorous third-party testing</span> with complete ingredient transparency and citrinin-free certification — no hidden side effects, no muscle destruction, no cognitive decline.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Trust ingredients clinically studied to support you, not corporate denials designed to protect billion-dollar drug profits.
-            </p>
           </section>
 
           {/* Item 10 */}
