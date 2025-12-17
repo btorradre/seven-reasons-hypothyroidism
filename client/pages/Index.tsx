@@ -539,7 +539,7 @@ export default function Index() {
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Image on the left */}
               <div>
-                <img src="/placeholder.svg" alt="Success stories" className="w-full rounded-lg shadow-lg h-64 object-cover bg-gradient-to-br from-violet-100 to-purple-200" />
+                <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8151e2abb532442b93912c7953a94255?format=webp&width=800" alt="Happy woman holding Lunessa Red Yeast Rice + CoQ10 bottle" className="w-full rounded-lg shadow-lg object-cover" />
               </div>
 
               {/* Content on the right */}
