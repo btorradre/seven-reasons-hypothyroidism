@@ -82,48 +82,18 @@ export default function Index() {
           </p>
 
           <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            Most people with familial hypercholesterolemia get handed a statin prescription at diagnosis.
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            Then the nightmare begins.
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            Muscle pain so bad you can't climb stairs. Brain fog so thick you forget your own thoughts. Fatigue that makes you feel 20 years older.
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            One woman described it perfectly: <span className="font-semibold">"I was a different person, exhausted and useless."</span>
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            If your doctor dismissed your side effects as "rare" or told you to "just push through it," you're not alone.
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            But what if there was another way?
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            A natural solution that works through the same pathway as statins—but without destroying your quality of life?
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            That's exactly what thousands of people with FH are discovering. They're managing their genetic cholesterol without prescription dependency. Without the side effect nightmare.
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            And their doctors are shocked by their lab results.
-          </p>
-
-          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            One user shared: <span className="font-semibold">"My cholesterol dropped from 245 to 177 without any dietary changes. My cardiologist thought it was the statin working. I told him it wasn't—and he was okay with it based on my labs."</span>
+            7 out of 10 statin users with familial hypercholesterolemia will experience debilitating muscle pain, brain fog, or fatigue—described as "feeling like I have the flu all the time" or "exhausted and useless."
           </p>
 
           <p className="text-base sm:text-lg mb-6 leading-relaxed text-slate-700">
-            Here's the truth Big Pharma doesn't want you to know...
+            Fortunately, a breakthrough natural cholesterol management solution combining red yeast rice and CoQ10 in gummy form is helping people break free from statin dependency while managing their genetic cholesterol—with testimonials reporting LDL drops from 245 to 177 without dietary changes.
           </p>
+
+          <div className="bg-blue-50 border-l-4 border-blue-600 p-4 my-8">
+            <p className="font-semibold text-blue-900">
+              <span className="font-bold">Note:</span> Read this BEFORE you accept another statin prescription that's destroying your quality of life!
+            </p>
+          </div>
 
           {/* Expert Box */}
           <div className="bg-white border border-slate-200 rounded-lg p-5 shadow-sm inline-flex items-center gap-4 mb-12">
@@ -132,7 +102,7 @@ export default function Index() {
             </div>
             <div>
               <div className="flex items-center gap-2 mb-1">
-                <h3 className="font-bold text-slate-900">By Dr. Sarah Chen</h3>
+                <h3 className="font-bold text-slate-900">Dr. Sarah Chen</h3>
                 <Badge variant="secondary" className="bg-blue-100 text-blue-700 text-xs">
                   <ShieldCheck className="w-3 h-3 mr-1" />
                   Verified
@@ -160,31 +130,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  1. You Get The Same Cholesterol-Lowering Pathway—With Protection Statins Don't Provide
+                  1. Clinical-Dose Red Yeast Rice (2400mg) vs. Statin's Same Mechanism Without Protection
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins block the HMG-CoA reductase pathway to stop cholesterol production. That part works.
+                  Statins block your body's cholesterol production through the HMG-CoA reductase pathway—but they also strip away CoQ10, the vital nutrient your cells need for energy. This creates the "exhausted and useless" feeling statin users describe.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  But that same pathway also makes CoQ10—the nutrient your cells need for energy.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins block cholesterol AND steal your CoQ10 at the same time. This is why you feel exhausted. Why your muscles hurt. Why you can barely function.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  I found Lunessa—a red yeast rice and CoQ10 supplement in gummy form. 2400mg of red yeast rice and 200mg of CoQ10 per serving. Third-party tested. Clinical dosing. And gummies—not horse-sized pills.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice naturally contains monacolin K, the same compound in lovastatin. Same pathway. Same mechanism.
+                  Lunessa provides 2400mg of red yeast rice naturally containing monacolin K (the same active compound found in lovastatin) PLUS 200mg of CoQ10 per serving—working through the same cholesterol-lowering pathway while protecting your cellular energy. Third-party tested. Proper dosing based on clinical studies. And gummies—not those horse-sized pills I'd been choking down.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  But with 200mg of CoQ10 to protect your cellular energy.
+                  Finally address your genetic cholesterol with nature's low-dose statin approach, not pharmaceutical doses that steal your vitality.
                 </p>
               </div>
             </div>
@@ -201,35 +159,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  2. Lower Your Cholesterol Without Losing Your Life
+                  2. Lowers Cholesterol Without Destroying Your Quality of Life
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Real statin users describe their nightmare:
+                  Statin users report debilitating side effects in their own words: <span className="font-semibold">"muscle pain so intense... spasms so bad in low back, legs and hip... put me in ER,"</span> <span className="font-semibold">"I was a different person, exhausted and useless,"</span> and <span className="font-semibold">"it felt like a terrible flu's muscle aches all over."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"Muscle pain so intense it put me in the ER."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"I was exhausted and useless. I wasn't myself anymore."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"It felt like terrible flu aches all over my body."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  This is what happens when you strip CoQ10 from every cell. Your muscles can't work. Your heart struggles. Your brain can't think.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa provides the same cholesterol mechanism while giving back what statins steal. Users report managing their numbers without muscle destruction.
+                  This complete formula works to manage cholesterol production while replenishing the CoQ10 statins deplete—delivering cardiovascular support without the muscle destruction that makes stairs feel impossible.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  "Red yeast rice works without the statin side effects. I refused statins and my doctor was fine with it after seeing my labs."
+                  Experience actual cholesterol management while keeping the energy to live your life, not trade one problem for constant pain.
                 </p>
               </div>
             </div>
@@ -246,39 +188,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. You're Already Doing Everything Right—Your Medication Shouldn't Make You Feel Worse
+                  3. Manages Cholesterol Without The Side Effect Nightmare
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You have FH. You follow a strict diet. You exercise. You do everything right.
+                  People with FH are already doing everything right—strict diets, regular exercise, zero processed foods. One user shared the frustration: <span className="font-semibold">"I eat whole food plant-based with no oil, no nuts, no seeds, no avocados. My LDL is still 160 with ezetimibe."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The last thing you need is medication that makes you feel like you're dying.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  One user: <span className="font-semibold">"I eat whole food plant-based. No oil. No nuts. My LDL is still 160 with ezetimibe."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statin users describe feeling "literally poisoned" with "debilitating muscle and joint pain."
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa users report different results:
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"His cholesterol went from 245 to 177 without any dietary changes."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"My cholesterol dropped from 225 to 173 after 10 weeks."</span>
+                  The last thing you need is a medication that makes you feel worse than your condition. Statin users describe feeling "literally poisoned," experiencing "debilitating muscle and joint pain," and developing side effects so severe they end up in the ER.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Zero ER visits. Zero muscle destruction. Just results.
+                  Clinical-strength red yeast rice works to inhibit cholesterol synthesis through the mevalonate pathway—with users reporting dramatic results: "Without any dietary changes, his cholesterol went from 245 to 177" and "my cholesterol dropped from 225 to 173 after 10 weeks"—without the side effect cascade.
                 </p>
               </div>
             </div>
@@ -316,6 +238,10 @@ export default function Index() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                    <span>Zero Muscle Pain or Fatigue</span>
+                  </li>
+                  <li className="flex items-center gap-2">
+                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
                     <span>Third-Party Tested & Citrinin-Free</span>
                   </li>
                   <li className="flex items-center gap-2">
@@ -351,7 +277,7 @@ export default function Index() {
                 </div>
 
                 <p className="text-center text-xs text-slate-600">
-                  90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
+                  Try it today with a 90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
                 </p>
               </div>
             </div>
@@ -368,31 +294,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  4. Manage Your Health On Your Terms—Not Big Pharma's Schedule
+                  4. Easy Compliance Without Prescription Dependency
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins mean lifelong prescriptions. Dismissive appointments. Insurance battles. Pharmacy trips.
+                  Statins require lifelong prescriptions, dismissive appointments, and insurance battles—all while feeling worse than before you started. 38% of adults struggle to swallow pills, and many people with FH are already taking multiple medications.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  And 38% of adults struggle to swallow pills.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  If you have FH, you're already taking multiple medications. More giant pills to choke down every day.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa comes in gummy form—pharmaceutical-grade but easy to take. No prescription gatekeeping. No doctor appointments for refills.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Complete freedom to manage your health.
+                  This pharmaceutical-grade gummy formula makes daily adherence effortless—zero prescription gatekeeping, zero doctor appointments to get your refill, and complete freedom to manage your health on your own terms.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  One user: "I refused statins. My doctor thought it was the statin working. I told him it wasn't and he was okay with it based on my labs."
+                  As one user celebrating RYR success said: "I refused statins. My doctor thought it was the statin working. I told him and he was okay with it based on my labs."
                 </p>
               </div>
             </div>
@@ -409,27 +323,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  5. Third-Party Tested Purity vs. Big Pharma's Decades of Denial
+                  5. Third-Party Tested Purity vs. Big Pharma's Side Effect Denial
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  For 30+ years, pharmaceutical companies dismissed statin side effects as "rare."
+                  Pharmaceutical companies dismissed statin side effects for decades—telling patients their muscle pain was "rare" and cognitive decline was "unproven" while dismissing them as "anxious" or "just stressed." One user's permanent muscle damage: <span className="font-semibold">"I stopped taking statins more than a year ago and I am still in pain, still can't walk upstairs without pain."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Meanwhile, people got permanently damaged.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  One user: <span className="font-semibold">"I stopped statins over a year ago and I'm still in pain. I still can't walk upstairs."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Every batch of Lunessa is third-party tested and certified citrinin-free. Pharmaceutical-grade precision. 2400mg red yeast rice + 200mg CoQ10 per serving.
+                  Every batch of Lunessa is third-party tested and certified citrinin-free (the dangerous toxin found in poorly made red yeast rice) using pharmaceutical-grade precision at clinical doses: 2400mg red yeast rice + 200mg CoQ10 per serving.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Same cholesterol mechanism. With the safety testing and CoQ10 protection Big Pharma won't provide.
+                  Get the same cholesterol-lowering mechanism statins use, with the safety testing and CoQ10 protection Big Pharma refuses to provide.
                 </p>
               </div>
             </div>
@@ -467,6 +373,10 @@ export default function Index() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                    <span>Zero Muscle Pain or Fatigue</span>
+                  </li>
+                  <li className="flex items-center gap-2">
+                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
                     <span>Third-Party Tested & Citrinin-Free</span>
                   </li>
                   <li className="flex items-center gap-2">
@@ -502,13 +412,13 @@ export default function Index() {
                 </div>
 
                 <p className="text-center text-xs text-slate-600">
-                  90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
+                  Try it today with a 90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
                 </p>
               </div>
             </div>
           </div>
 
-          {/* Item 6 - Horizontal layout */}
+          {/* Item 6 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Visual on the left */}
@@ -519,29 +429,25 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  6. Nature's Statin Without The Side Effect Nightmare
+                  6. Nature's Statin Mechanism vs. Pharmaceutical Side Effect Cascade
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins work. But at what cost?
+                  Statins work—but at what cost? Users report the drug creates cascading problems: muscle pain that prevents exercise (the very thing that protects your heart), brain fog described as "like I'm walking around in a haze... like I'm not me," and side effects so severe some describe feeling "literally poisoned."
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Muscle pain so bad you can't exercise. Brain fog described as "like I'm walking around in a haze." Side effects so severe people feel "literally poisoned."
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa combines clinical-strength red yeast rice (2400mg) with protective CoQ10 (200mg). Red yeast rice works through the same HMG-CoA reductase pathway as lovastatin.
+                  Lunessa combines red yeast rice at clinical strength (2400mg)—naturally containing monacolin K that works through the same HMG-CoA reductase pathway as lovastatin—plus protective CoQ10 (200mg) to prevent the muscle and energy depletion statins cause.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Same mechanism. Zero side effect cascade.
+                  Attack genetic cholesterol through the proven mevalonate pathway inhibition, without creating new health problems that require more medications.
                 </p>
               </div>
             </div>
           </section>
 
-          {/* Item 7 - Horizontal layout */}
+          {/* Item 7 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Visual on the left */}
@@ -552,33 +458,25 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  7. Support Your Heart Without Trading It For Diabetes
+                  7. Supports Long-Term Heart Health Without Creating New Diseases
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins can increase diabetes risk. They deplete CoQ10 your heart needs to function.
+                  While statins suppress cholesterol production, research shows they can increase diabetes risk and deplete CoQ10 stores essential for heart muscle function. One user discovered: <span className="font-semibold">"Statins brought my A1C to pre-diabetic levels and rendered me useless with side effects."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You're protecting your heart while damaging your heart.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  One user: <span className="font-semibold">"Statins brought my A1C to pre-diabetic levels and rendered me useless with side effects."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice works through the same pathway while CoQ10 protects cellular energy.
+                  Red yeast rice naturally modulates the same cholesterol synthesis pathway while CoQ10 protects cellular energy production—supporting cardiovascular function without the metabolic trade-offs. Users report: <span className="font-semibold">"Red yeast rice plus CoQ10 lowered my LDL from 148 to 55. Yes, in the U.S."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  "Red yeast rice plus CoQ10 lowered my LDL from 148 to 55."
+                  Work WITH your body's biochemistry instead of creating pharmaceutical dependency that trades one health crisis for another.
                 </p>
               </div>
             </div>
           </section>
 
-          {/* Item 8 - Horizontal layout */}
+          {/* Item 8 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Visual on the left */}
@@ -589,37 +487,25 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  8. Keep Your Mind Sharp Instead of Losing Yourself
+                  8. Preserves Mental Clarity Instead of Stealing It
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statin users describe terrifying cognitive effects:
+                  Statin users describe terrifying cognitive effects: <span className="font-semibold">"within a week [of stopping], the brain fog lifted. I hadn't realised how bad I had felt for years,"</span> <span className="font-semibold">"couldn't think clearly,"</span> and <span className="font-semibold">"felt like I was losing my mind."</span> For those watching parents decline with dementia, any cognitive impact is unacceptable.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"Within a week of stopping, the brain fog lifted. I hadn't realized how bad I had felt for years."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"I felt like I was losing my mind."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  For those watching parents decline with dementia, any cognitive impact is unacceptable.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Natural cholesterol management through red yeast rice preserves the mental clarity statins compromise.
+                  Natural cholesterol management through red yeast rice supports cardiovascular function through the mevalonate pathway while preserving the mental clarity and memory statins compromise.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Wake up sharp. Not wondering if it's medication damage.
+                  Wake up with sharp thinking and your personality intact instead of wondering if this is "just getting older" or medication damage.
                 </p>
               </div>
             </div>
           </section>
 
-          {/* Item 9 - Horizontal layout */}
+          {/* Item 9 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Visual on the left */}
@@ -630,31 +516,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  9. Complete Transparency vs. Corporate Lies
+                  9. Complete Transparency vs. Decades of Corporate Denial
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Big Pharma minimized statin side effects for 30+ years while patients suffered.
+                  Pharmaceutical companies minimized statin side effects for over 30 years while patients suffered: <span className="font-semibold">"Everyone needs to know that statins can do permanent nerve and muscle damage!"</span> One user's experience: <span className="font-semibold">"The muscle pain can be debilitating. My cardiologist told me the statin side effect of muscle aches can feel just like the flu."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"Everyone needs to know that statins can do permanent nerve and muscle damage!"</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  One cardiologist told a patient: <span className="font-semibold">"The muscle aches can feel just like the flu."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Every single day. For years.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Every batch of Lunessa undergoes rigorous third-party testing. Citrinin-free certification. Clinical dosing at 2400mg red yeast rice + 200mg CoQ10 per serving.
+                  Every batch undergoes rigorous third-party testing with complete ingredient transparency and citrinin-free certification (the toxin that can contaminate poorly made red yeast rice). Clinical dosing at 2400mg red yeast rice + 200mg CoQ10 per serving.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Trust ingredients proven to lower LDL by up to 30%. Not corporate denials protecting billion-dollar patents.
+                  Trust ingredients proven in clinical studies to lower LDL by up to 30%, not corporate denials designed to protect billion-dollar drug patents.
                 </p>
               </div>
             </div>
@@ -671,35 +545,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  10. Join Thousands Who've Escaped The Statin Trap
+                  10. Join Thousands Who've Escaped The Statin Side Effect Trap
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Big Pharma generates billions from statin prescriptions while dismissing quality-of-life destruction as "necessary."
+                  Big pharma generates billions annually from statin prescriptions—managing symptoms while dismissing quality-of-life destruction as "necessary" for people with genetic cholesterol.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  People with FH are waking up.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"I've been taking it for 6 months... LDL halved."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"It works without the statin side effects. I refused statins."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"My cholesterol went from 245 to 177 without changing my diet."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  When thousands refuse to go back to prescription dependency after discovering red yeast rice + CoQ10, something real is happening.
+                  People across forums share success stories: <span className="font-semibold">"I've been taking it for ~6 months and my lipid levels have changed for the better enormously... LDL halved,"</span> <span className="font-semibold">"it works without the statin side effects (for me). I refused statins,"</span> and <span className="font-semibold">"my cardiologist recommended red yeast rice from Costco and my cholesterol went from 245 to 177 without changing my diet."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  You don't have to accept the side effect nightmare.
+                  When thousands of people with FH refuse to go back to prescription dependency after discovering red yeast rice + CoQ10, you know something is working.
                 </p>
               </div>
             </div>
@@ -737,6 +595,10 @@ export default function Index() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                    <span>Zero Muscle Pain or Fatigue</span>
+                  </li>
+                  <li className="flex items-center gap-2">
+                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
                     <span>Third-Party Tested & Citrinin-Free</span>
                   </li>
                   <li className="flex items-center gap-2">
@@ -772,7 +634,7 @@ export default function Index() {
                 </div>
 
                 <p className="text-center text-xs text-slate-600">
-                  90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
+                  Try it today with a 90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
                 </p>
               </div>
             </div>
@@ -794,7 +656,10 @@ export default function Index() {
 
           <div className="border-t border-slate-700 pt-8 space-y-4 text-xs text-slate-400 leading-relaxed">
             <p>
-              These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary.
+              These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Testimonials are based on actual user experiences with red yeast rice supplements as documented in health forums and research. Individual results may vary and may not reflect the typical purchaser's experience.
+            </p>
+            <p>
+              Information on Lunessa's website is provided for informational purposes only. It is not meant to substitute for medical advice from your physician or other medical professional. You should not use the information contained herein for diagnosing or treating a health problem or disease, or prescribing any medication. If you have or suspect that you have a medical problem, promptly contact your regular health care provider.
             </p>
           </div>
         </div>
