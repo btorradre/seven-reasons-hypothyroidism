@@ -192,76 +192,96 @@ export default function Index() {
 
           {/* Item 2 */}
           <section className="scroll-mt-20">
-            <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-slate-900">
-              2. Lower Your Cholesterol Without Losing Your Life
-            </h2>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Image on the left */}
+              <div>
+                <img src="/placeholder.svg" alt="Statin side effects" className="w-full rounded-lg shadow-lg h-64 object-cover bg-gradient-to-br from-orange-100 to-red-200" />
+              </div>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Real statin users describe their nightmare:
-            </p>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  2. Lower Your Cholesterol Without Losing Your Life
+                </h2>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"Muscle pain so intense it put me in the ER."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Real statin users describe their nightmare:
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"I was exhausted and useless. I wasn't myself anymore."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"Muscle pain so intense it put me in the ER."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"It felt like terrible flu aches all over my body."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"I was exhausted and useless. I wasn't myself anymore."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              This is what happens when you strip CoQ10 from every cell. Your muscles can't work. Your heart struggles. Your brain can't think.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"It felt like terrible flu aches all over my body."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Lunessa provides the same cholesterol mechanism while giving back what statins steal. Users report managing their numbers without muscle destruction.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  This is what happens when you strip CoQ10 from every cell. Your muscles can't work. Your heart struggles. Your brain can't think.
+                </p>
 
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              "Red yeast rice works without the statin side effects. I refused statins and my doctor was fine with it after seeing my labs."
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Lunessa provides the same cholesterol mechanism while giving back what statins steal. Users report managing their numbers without muscle destruction.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  "Red yeast rice works without the statin side effects. I refused statins and my doctor was fine with it after seeing my labs."
+                </p>
+              </div>
+            </div>
           </section>
 
           {/* Item 3 */}
           <section className="scroll-mt-20">
-            <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-slate-900">
-              3. You're Already Doing Everything Right—Your Medication Shouldn't Make You Feel Worse
-            </h2>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Image on the left */}
+              <div>
+                <img src="/placeholder.svg" alt="Healthy lifestyle with FH" className="w-full rounded-lg shadow-lg h-64 object-cover bg-gradient-to-br from-green-100 to-emerald-200" />
+              </div>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              You have FH. You follow a strict diet. You exercise. You do everything right.
-            </p>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  3. You're Already Doing Everything Right—Your Medication Shouldn't Make You Feel Worse
+                </h2>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              The last thing you need is medication that makes you feel like you're dying.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  You have FH. You follow a strict diet. You exercise. You do everything right.
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              One user: <span className="font-semibold">"I eat whole food plant-based. No oil. No nuts. My LDL is still 160 with ezetimibe."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  The last thing you need is medication that makes you feel like you're dying.
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statin users describe feeling "literally poisoned" with "debilitating muscle and joint pain."
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  One user: <span className="font-semibold">"I eat whole food plant-based. No oil. No nuts. My LDL is still 160 with ezetimibe."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Lunessa users report different results:
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statin users describe feeling "literally poisoned" with "debilitating muscle and joint pain."
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"His cholesterol went from 245 to 177 without any dietary changes."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Lunessa users report different results:
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"My cholesterol dropped from 225 to 173 after 10 weeks."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"His cholesterol went from 245 to 177 without any dietary changes."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Zero ER visits. Zero muscle destruction. Just results.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"My cholesterol dropped from 225 to 173 after 10 weeks."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Zero ER visits. Zero muscle destruction. Just results.
+                </p>
+              </div>
+            </div>
           </section>
 
           {/* CTA Section 1 */}
@@ -339,60 +359,80 @@ export default function Index() {
 
           {/* Item 4 */}
           <section className="scroll-mt-20">
-            <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-slate-900">
-              4. Manage Your Health On Your Terms—Not Big Pharma's Schedule
-            </h2>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Image on the left */}
+              <div>
+                <img src="/placeholder.svg" alt="Gummy supplements" className="w-full rounded-lg shadow-lg h-64 object-cover bg-gradient-to-br from-amber-100 to-yellow-200" />
+              </div>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Statins mean lifelong prescriptions. Dismissive appointments. Insurance battles. Pharmacy trips.
-            </p>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  4. Manage Your Health On Your Terms—Not Big Pharma's Schedule
+                </h2>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              And 38% of adults struggle to swallow pills.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Statins mean lifelong prescriptions. Dismissive appointments. Insurance battles. Pharmacy trips.
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              If you have FH, you're already taking multiple medications. More giant pills to choke down every day.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  And 38% of adults struggle to swallow pills.
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Lunessa comes in gummy form—pharmaceutical-grade but easy to take. No prescription gatekeeping. No doctor appointments for refills.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  If you have FH, you're already taking multiple medications. More giant pills to choke down every day.
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Complete freedom to manage your health.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Lunessa comes in gummy form—pharmaceutical-grade but easy to take. No prescription gatekeeping. No doctor appointments for refills.
+                </p>
 
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              One user: "I refused statins. My doctor thought it was the statin working. I told him it wasn't and he was okay with it based on my labs."
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Complete freedom to manage your health.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  One user: "I refused statins. My doctor thought it was the statin working. I told him it wasn't and he was okay with it based on my labs."
+                </p>
+              </div>
+            </div>
           </section>
 
           {/* Item 5 */}
           <section className="scroll-mt-20">
-            <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-slate-900">
-              5. Third-Party Tested Purity vs. Big Pharma's Decades of Denial
-            </h2>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Image on the left */}
+              <div>
+                <img src="/placeholder.svg" alt="Third-party testing" className="w-full rounded-lg shadow-lg h-64 object-cover bg-gradient-to-br from-cyan-100 to-blue-200" />
+              </div>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              For 30+ years, pharmaceutical companies dismissed statin side effects as "rare."
-            </p>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  5. Third-Party Tested Purity vs. Big Pharma's Decades of Denial
+                </h2>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Meanwhile, people got permanently damaged.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  For 30+ years, pharmaceutical companies dismissed statin side effects as "rare."
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              One user: <span className="font-semibold">"I stopped statins over a year ago and I'm still in pain. I still can't walk upstairs."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Meanwhile, people got permanently damaged.
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Every batch of Lunessa is third-party tested and certified citrinin-free. Pharmaceutical-grade precision. 2400mg red yeast rice + 200mg CoQ10 per serving.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  One user: <span className="font-semibold">"I stopped statins over a year ago and I'm still in pain. I still can't walk upstairs."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Same cholesterol mechanism. With the safety testing and CoQ10 protection Big Pharma won't provide.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Every batch of Lunessa is third-party tested and certified citrinin-free. Pharmaceutical-grade precision. 2400mg red yeast rice + 200mg CoQ10 per serving.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Same cholesterol mechanism. With the safety testing and CoQ10 protection Big Pharma won't provide.
+                </p>
+              </div>
+            </div>
           </section>
 
           {/* CTA Section 2 */}
@@ -622,37 +662,47 @@ export default function Index() {
 
           {/* Item 10 */}
           <section className="scroll-mt-20">
-            <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-slate-900">
-              10. Join Thousands Who've Escaped The Statin Trap
-            </h2>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Image on the left */}
+              <div>
+                <img src="/placeholder.svg" alt="Success stories" className="w-full rounded-lg shadow-lg h-64 object-cover bg-gradient-to-br from-violet-100 to-purple-200" />
+              </div>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Big Pharma generates billions from statin prescriptions while dismissing quality-of-life destruction as "necessary."
-            </p>
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  10. Join Thousands Who've Escaped The Statin Trap
+                </h2>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              People with FH are waking up.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Big Pharma generates billions from statin prescriptions while dismissing quality-of-life destruction as "necessary."
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"I've been taking it for 6 months... LDL halved."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  People with FH are waking up.
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"It works without the statin side effects. I refused statins."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"I've been taking it for 6 months... LDL halved."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              <span className="font-semibold">"My cholesterol went from 245 to 177 without changing my diet."</span>
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"It works without the statin side effects. I refused statins."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              When thousands refuse to go back to prescription dependency after discovering red yeast rice + CoQ10, something real is happening.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"My cholesterol went from 245 to 177 without changing my diet."</span>
+                </p>
 
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              You don't have to accept the side effect nightmare.
-            </p>
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  When thousands refuse to go back to prescription dependency after discovering red yeast rice + CoQ10, something real is happening.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  You don't have to accept the side effect nightmare.
+                </p>
+              </div>
+            </div>
           </section>
 
           {/* Final CTA Section */}
