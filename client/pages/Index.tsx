@@ -488,33 +488,38 @@ export default function Index() {
 
           {/* Item 7 */}
           <section className="scroll-mt-20">
-            <div className="mb-6 rounded-lg overflow-hidden shadow-lg">
-              <div className="h-64 bg-gradient-to-br from-indigo-900 via-blue-900 to-purple-900 relative overflow-hidden">
-                <div className="absolute inset-0 opacity-30">
-                  <svg className="w-full h-full" viewBox="0 0 200 200">
-                    {[...Array(20)].map((_, i) => (
-                      <circle key={i} cx={Math.random() * 200} cy={Math.random() * 200} r={Math.random() * 3} fill="white" opacity={Math.random()} />
-                    ))}
-                  </svg>
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Visual on the left */}
+              <div className="rounded-lg overflow-hidden shadow-lg">
+                <div className="h-64 bg-gradient-to-br from-indigo-900 via-blue-900 to-purple-900 relative overflow-hidden flex items-center justify-center">
+                  <div className="text-white text-center px-8">
+                    <svg className="w-24 h-24 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <p className="text-lg font-semibold">Cellular Health</p>
+                  </div>
                 </div>
               </div>
+
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  7. Addresses Root Cause While Statins Create New Problems
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  While statins suppress cholesterol production, they simultaneously <span className="font-bold">increase diabetes risk by 46%</span>, deplete CoQ10 stores, and accelerate cognitive decline — creating new health crises while managing the original problem.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Powerful red yeast rice naturally modulates the same HMG-CoA reductase pathway statins target while CoQ10 protects against oxidative stress and cellular damage, actually supporting cardiovascular health instead of trading one disease for another.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  Clinical observations show LDL improvements in 87% of users without the cascading health problems statins create.
+                </p>
+              </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              7. Addresses Root Cause While Statins Create New Problems
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              While statins suppress cholesterol production, they simultaneously <span className="font-bold">increase diabetes risk by 46%</span>, deplete CoQ10 stores, and accelerate cognitive decline — creating new health crises while managing the original problem.
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Powerful red yeast rice naturally modulates the same HMG-CoA reductase pathway statins target while CoQ10 protects against oxidative stress and cellular damage, actually supporting cardiovascular health instead of trading one disease for another.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              Clinical observations show LDL improvements in 87% of users without the cascading health problems statins create.
-            </p>
           </section>
 
           {/* Item 8 */}
