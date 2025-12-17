@@ -610,25 +610,31 @@ export default function Index() {
 
           {/* Item 10 */}
           <section className="scroll-mt-20">
-            <div className="mb-6 rounded-lg overflow-hidden shadow-lg">
-              <img src="/placeholder.svg" alt="Happy women outdoors" className="w-full h-64 object-cover bg-gradient-to-br from-amber-100 to-yellow-200" />
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Image on the left */}
+              <div className="rounded-lg overflow-hidden shadow-lg">
+                <img src="/placeholder.svg" alt="Happy women outdoors" className="w-full h-64 object-cover bg-gradient-to-br from-amber-100 to-yellow-200" />
+              </div>
+
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  10. Join 50,000+ Women Who've Escaped The Statin Trap
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Big pharma designed statin dependency to generate <span className="font-bold">$29 billion annually</span> — managing symptoms while dismissing quality-of-life destruction as "necessary" for women with genetic cholesterol.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  From marathoners to mothers to menopausal women, <span className="font-semibold">over 50,000 people</span> have discovered they can manage their genetic cholesterol naturally and permanently escape the statin side effect nightmare while seeing real LDL improvements.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  When tens of thousands of women with FH refuse to go back to prescription dependency after trying this, you know something is working.
+                </p>
+              </div>
             </div>
-
-            <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-              10. Join 50,000+ Women Who've Escaped The Statin Trap
-            </h2>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              Big pharma designed statin dependency to generate <span className="font-bold">$29 billion annually</span> — managing symptoms while dismissing quality-of-life destruction as "necessary" for women with genetic cholesterol.
-            </p>
-
-            <p className="text-lg leading-relaxed mb-4 text-slate-700">
-              From marathoners to mothers to menopausal women, <span className="font-semibold">over 50,000 people</span> have discovered they can manage their genetic cholesterol naturally and permanently escape the statin side effect nightmare while seeing real LDL improvements.
-            </p>
-
-            <p className="text-lg leading-relaxed font-semibold text-slate-900">
-              When tens of thousands of women with FH refuse to go back to prescription dependency after trying this, you know something is working.
-            </p>
           </section>
 
           {/* Final CTA Section */}
