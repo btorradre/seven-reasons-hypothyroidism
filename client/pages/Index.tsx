@@ -31,7 +31,7 @@ export default function Index() {
   return (
     <div className="min-h-screen bg-white">
       {/* Top Banner */}
-      <div className="bg-gradient-to-r from-teal-600 to-teal-700 text-white py-3 px-4 sticky top-0 z-50 shadow-lg">
+      <div className="bg-gradient-to-r from-[#7e1d22] to-[#6b1a1e] text-white py-3 px-4 sticky top-0 z-50 shadow-lg">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center justify-center gap-3 text-center">
           <span className="font-bold text-sm sm:text-base">HOLIDAY SALE DEAL</span>
           <span className="hidden sm:block text-white/60">|</span>
@@ -74,7 +74,7 @@ export default function Index() {
           <div className="h-1 bg-gradient-to-r from-slate-200 via-slate-300 to-slate-200 mb-8"></div>
           
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
-            10 Reasons <span className="text-teal-600">People with FH Choose This Over Statins</span> for Their Genetic Cholesterol
+            10 Reasons <span className="text-[#7e1d22]">People with FH Choose This Over Statins</span> for Their Genetic Cholesterol
           </h1>
 
           <p className="text-lg sm:text-xl font-semibold mb-4 text-slate-800">
@@ -89,26 +89,26 @@ export default function Index() {
             Fortunately, a breakthrough natural cholesterol management solution combining red yeast rice and CoQ10 in gummy form is helping people break free from statin dependency while managing their genetic cholesterol—with testimonials reporting LDL drops from 245 to 177 without dietary changes.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-600 p-4 my-8">
-            <p className="font-semibold text-blue-900">
+          <div className="bg-rose-50 border-l-4 border-[#7e1d22] p-4 my-8">
+            <p className="font-semibold text-rose-900">
               <span className="font-bold">Note:</span> Read this BEFORE you accept another statin prescription that's destroying your quality of life!
             </p>
           </div>
 
           {/* Expert Box */}
           <div className="bg-white border border-slate-200 rounded-lg p-5 shadow-sm inline-flex items-center gap-4 mb-12">
-            <div className="w-16 h-16 rounded-full bg-gradient-to-br from-teal-100 to-teal-200 flex items-center justify-center flex-shrink-0">
-              <span className="text-2xl font-bold text-teal-700">SC</span>
+            <div className="w-16 h-16 rounded-full bg-gradient-to-br from-rose-100 to-rose-200 flex items-center justify-center flex-shrink-0">
+              <span className="text-2xl font-bold text-rose-800">SC</span>
             </div>
             <div>
               <div className="flex items-center gap-2 mb-1">
                 <h3 className="font-bold text-slate-900">Dr. Sarah Chen</h3>
-                <Badge variant="secondary" className="bg-blue-100 text-blue-700 text-xs">
+                <Badge variant="secondary" className="bg-rose-100 text-rose-800 text-xs">
                   <ShieldCheck className="w-3 h-3 mr-1" />
                   Verified
                 </Badge>
               </div>
-              <p className="text-sm text-teal-600 font-medium">Cardiologist & Lipid Specialist</p>
+              <p className="text-sm text-[#7e1d22] font-medium">Cardiologist & Lipid Specialist</p>
             </div>
           </div>
         </div>
@@ -207,9 +207,9 @@ export default function Index() {
           </section>
 
           {/* CTA Section 1 */}
-          <div className="bg-gradient-to-br from-cyan-50 to-teal-50 rounded-xl p-8 shadow-xl border-2 border-teal-200 my-16">
+          <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="flex items-center justify-center gap-2 mb-6">
-              <Badge variant="secondary" className="bg-teal-600 text-white text-xs px-3 py-1">
+              <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
                 HOLIDAY SALE DEAL - SAVINGS + FREE GIFT
               </Badge>
             </div>
@@ -217,10 +217,10 @@ export default function Index() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-teal-700 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
+                <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
-                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-teal-100 to-cyan-100 rounded" />
+                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-rose-100 to-red-100 rounded" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
@@ -261,7 +261,7 @@ export default function Index() {
                   <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
                 </div>
 
-                <Button className="w-full bg-teal-600 hover:bg-teal-700 text-white text-lg py-6 mb-4 shadow-lg">
+                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
                   54% OFF + FREE GIFTS →
                 </Button>
 
@@ -342,9 +342,9 @@ export default function Index() {
           </section>
 
           {/* CTA Section 2 */}
-          <div className="bg-gradient-to-br from-cyan-50 to-teal-50 rounded-xl p-8 shadow-xl border-2 border-teal-200 my-16">
+          <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="flex items-center justify-center gap-2 mb-6">
-              <Badge variant="secondary" className="bg-teal-600 text-white text-xs px-3 py-1">
+              <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
                 HOLIDAY SALE DEAL
               </Badge>
             </div>
@@ -352,10 +352,10 @@ export default function Index() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-teal-700 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
+                <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
-                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-teal-100 to-cyan-100 rounded" />
+                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-rose-100 to-red-100 rounded" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
@@ -396,7 +396,7 @@ export default function Index() {
                   <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
                 </div>
 
-                <Button className="w-full bg-teal-600 hover:bg-teal-700 text-white text-lg py-6 mb-4 shadow-lg">
+                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
                   54% OFF + FREE GIFTS →
                 </Button>
 
@@ -564,9 +564,9 @@ export default function Index() {
           </section>
 
           {/* Final CTA Section */}
-          <div className="bg-gradient-to-br from-cyan-50 to-teal-50 rounded-xl p-8 shadow-xl border-2 border-teal-200 my-16">
+          <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="flex items-center justify-center gap-2 mb-6">
-              <Badge variant="secondary" className="bg-teal-600 text-white text-xs px-3 py-1">
+              <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
                 HOLIDAY SALE DEAL
               </Badge>
             </div>
@@ -574,10 +574,10 @@ export default function Index() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-teal-700 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
+                <p className="text-rose-800 font-semibold mb-6">54% OFF + FREE Gifts Today's Limited Offer</p>
                 
                 <div className="bg-white rounded-lg p-6 shadow-md mb-6">
-                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-teal-100 to-cyan-100 rounded" />
+                  <img src="/placeholder.svg" alt="Product bottles" className="w-full h-48 object-contain mb-4 bg-gradient-to-br from-rose-100 to-red-100 rounded" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
@@ -618,7 +618,7 @@ export default function Index() {
                   <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
                 </div>
 
-                <Button className="w-full bg-teal-600 hover:bg-teal-700 text-white text-lg py-6 mb-4 shadow-lg">
+                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
                   54% OFF + FREE GIFTS →
                 </Button>
 
@@ -648,9 +648,9 @@ export default function Index() {
           <div className="text-center mb-8">
             <p className="text-sm mb-4">© 2025 Lunessa. All rights reserved.</p>
             <div className="flex items-center justify-center gap-4 text-sm">
-              <a href="#" className="hover:text-teal-400 transition">Privacy Policy</a>
+              <a href="#" className="hover:text-rose-400 transition">Privacy Policy</a>
               <span className="text-slate-600">•</span>
-              <a href="#" className="hover:text-teal-400 transition">Terms of Service</a>
+              <a href="#" className="hover:text-rose-400 transition">Terms of Service</a>
             </div>
           </div>
 
