@@ -219,8 +219,8 @@ export default function Index() {
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
                 <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
                 
-                <div className="bg-white rounded-lg shadow-md mb-6 p-4">
-                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full aspect-video object-contain rounded" />
+                <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
+                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-auto" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
@@ -354,8 +354,8 @@ export default function Index() {
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
                 <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
                 
-                <div className="bg-white rounded-lg shadow-md mb-6 p-4">
-                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full aspect-video object-contain rounded" />
+                <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
+                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-auto" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
@@ -576,8 +576,8 @@ export default function Index() {
                 <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
                 <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
                 
-                <div className="bg-white rounded-lg shadow-md mb-6 p-4">
-                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full aspect-video object-contain rounded" />
+                <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
+                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-auto" />
                 </div>
 
                 <ul className="space-y-2 text-sm">
