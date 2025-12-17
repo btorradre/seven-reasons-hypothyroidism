@@ -153,7 +153,7 @@ export default function Index() {
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Image on the left */}
               <div>
-                <img src="/placeholder.svg" alt="Statin side effects" className="w-full rounded-lg shadow-lg h-64 object-cover bg-gradient-to-br from-orange-100 to-red-200" />
+                <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Ff5ab4b441a3c4a1791816ea2d9e02451?format=webp&width=800" alt="Before and after: Woman struggling with stairs vs easily carrying groceries" className="w-full rounded-lg shadow-lg object-cover" />
               </div>
 
               {/* Content on the right */}
