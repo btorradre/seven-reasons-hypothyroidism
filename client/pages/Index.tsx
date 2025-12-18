@@ -265,12 +265,12 @@ export default function Index() {
                   BUY 2 GET 1 FREE →
                 </Button>
 
-                <div className="flex items-center justify-between text-sm mb-4">
-                  <div className="flex items-center gap-1">
+                <div className="flex items-center justify-between text-sm mb-4 flex-wrap gap-y-2">
+                  <div className="flex items-center gap-2">
                     <span>Sell-Out Risk:</span>
                     <span className="text-red-600 font-bold">High</span>
                   </div>
-                  <div className="flex items-center gap-1">
+                  <div className="flex items-center gap-2">
                     <Check className="w-4 h-4 text-green-600" />
                     <span className="font-semibold">Free Shipping on Orders Over $50</span>
                   </div>
@@ -400,12 +400,12 @@ export default function Index() {
                   BUY 2 GET 1 FREE →
                 </Button>
 
-                <div className="flex items-center justify-between text-sm mb-4">
-                  <div className="flex items-center gap-1">
+                <div className="flex items-center justify-between text-sm mb-4 flex-wrap gap-y-2">
+                  <div className="flex items-center gap-2">
                     <span>Sell-Out Risk:</span>
                     <span className="text-red-600 font-bold">High</span>
                   </div>
-                  <div className="flex items-center gap-1">
+                  <div className="flex items-center gap-2">
                     <Check className="w-4 h-4 text-green-600" />
                     <span className="font-semibold">Free Shipping on Orders Over $50</span>
                   </div>
@@ -622,12 +622,12 @@ export default function Index() {
                   BUY 2 GET 1 FREE →
                 </Button>
 
-                <div className="flex items-center justify-between text-sm mb-4">
-                  <div className="flex items-center gap-1">
+                <div className="flex items-center justify-between text-sm mb-4 flex-wrap gap-y-2">
+                  <div className="flex items-center gap-2">
                     <span>Sell-Out Risk:</span>
                     <span className="text-red-600 font-bold">High</span>
                   </div>
-                  <div className="flex items-center gap-1">
+                  <div className="flex items-center gap-2">
                     <Check className="w-4 h-4 text-green-600" />
                     <span className="font-semibold">Free Shipping on Orders Over $50</span>
                   </div>
