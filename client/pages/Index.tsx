@@ -306,9 +306,11 @@ export default function Index() {
                 out.
               </p>
 
-              <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
-                BUY 2 GET 1 FREE →
-              </Button>
+              <a href="https://shoplunessa.store/products/lunessa" target="_blank" rel="noopener noreferrer" className="block">
+                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
+                  BUY 2 GET 1 FREE →
+                </Button>
+              </a>
 
               <ul className="space-y-3 text-left max-w-md mx-auto">
                 <li className="flex items-center gap-2">
@@ -446,9 +448,11 @@ export default function Index() {
                 out.
               </p>
 
-              <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
-                BUY 2 GET 1 FREE →
-              </Button>
+              <a href="https://shoplunessa.store/products/lunessa" target="_blank" rel="noopener noreferrer" className="block">
+                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
+                  BUY 2 GET 1 FREE →
+                </Button>
+              </a>
 
               <ul className="space-y-3 text-left max-w-md mx-auto">
                 <li className="flex items-center gap-2">
@@ -743,9 +747,11 @@ export default function Index() {
                 out.
               </p>
 
-              <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
-                BUY 2 GET 1 FREE →
-              </Button>
+              <a href="https://shoplunessa.store/products/lunessa" target="_blank" rel="noopener noreferrer" className="block">
+                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
+                  BUY 2 GET 1 FREE →
+                </Button>
+              </a>
 
               <ul className="space-y-3 text-left max-w-md mx-auto">
                 <li className="flex items-center gap-2">
