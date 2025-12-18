@@ -306,7 +306,12 @@ export default function Index() {
                 out.
               </p>
 
-              <a href="https://shoplunessa.store/products/lunessa" target="_blank" rel="noopener noreferrer" className="block">
+              <a
+                href="https://shoplunessa.store/products/lunessa"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block"
+              >
                 <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
                   BUY 2 GET 1 FREE →
                 </Button>
@@ -448,7 +453,12 @@ export default function Index() {
                 out.
               </p>
 
-              <a href="https://shoplunessa.store/products/lunessa" target="_blank" rel="noopener noreferrer" className="block">
+              <a
+                href="https://shoplunessa.store/products/lunessa"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block"
+              >
                 <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
                   BUY 2 GET 1 FREE →
                 </Button>
@@ -747,7 +757,12 @@ export default function Index() {
                 out.
               </p>
 
-              <a href="https://shoplunessa.store/products/lunessa" target="_blank" rel="noopener noreferrer" className="block">
+              <a
+                href="https://shoplunessa.store/products/lunessa"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block"
+              >
                 <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
                   BUY 2 GET 1 FREE →
                 </Button>
