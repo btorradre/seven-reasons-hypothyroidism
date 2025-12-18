@@ -308,78 +308,43 @@ export default function Index() {
 
           {/* CTA Section 2 */}
           <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
-            <div className="flex items-center justify-center gap-2 mb-6">
-              <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
-                BUY 2 GET 1 FREE
-              </Badge>
-            </div>
-
-            <div className="grid md:grid-cols-2 gap-8 items-center">
-              <div>
-                <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
-                
-                <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
-                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-auto" />
-                </div>
-
-                <ul className="space-y-2 text-sm">
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Clinical-Dose Red Yeast Rice (2400mg)</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Protective CoQ10 (200mg)</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>No Horse-Sized Pills to Swallow</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Zero Muscle Pain or Fatigue</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Third-Party Tested & Citrinin-Free</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Free Shipping on Orders Over $50 + 90-Day Guarantee</span>
-                  </li>
-                </ul>
+            <div className="max-w-2xl mx-auto text-center">
+              <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
+                <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-auto" />
               </div>
 
-              <div className="bg-white rounded-lg p-6 shadow-lg">
-                <div className="text-center mb-4">
-                  <Badge variant="secondary" className="bg-red-500 text-white mb-2">
-                    <Gift className="w-4 h-4 mr-1" />
-                    BUY 2 GET 1 FREE
-                  </Badge>
-                  <h4 className="text-2xl font-bold text-slate-900 mb-2">BUY 2 GET 1 FREE - LIMITED TIME ONLY</h4>
-                  <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
-                </div>
+              <p className="text-sm text-slate-600 mb-6">This limited-time deal is in high demand and stock keeps selling out.</p>
 
-                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
-                  BUY 2 GET 1 FREE →
-                </Button>
+              <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
+                BUY 2 GET 1 FREE →
+              </Button>
 
-                <div className="space-y-2 text-sm mb-4">
-                  <div className="flex items-center gap-2">
-                    <span className="text-slate-700">Sell-Out Risk:</span>
-                    <span className="text-red-600 font-bold">High</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <Check className="w-4 h-4 text-green-600 flex-shrink-0" />
-                    <span className="font-semibold text-slate-900">Free Shipping on Orders Over $50</span>
-                  </div>
-                </div>
-
-                <p className="text-center text-xs text-slate-600">
-                  Try it today with a 90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
-                </p>
-              </div>
+              <ul className="space-y-3 text-left max-w-md mx-auto">
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Clinical-Dose Red Yeast Rice (2400mg)</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Protective CoQ10 (200mg)</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>No Horse-Sized Pills to Swallow</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Zero Muscle Pain or Fatigue</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Third-Party Tested & Citrinin-Free</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Free Shipping on Orders Over $50 + 90-Day Guarantee</span>
+                </li>
+              </ul>
             </div>
           </div>
 
@@ -530,78 +495,43 @@ export default function Index() {
 
           {/* Final CTA Section */}
           <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
-            <div className="flex items-center justify-center gap-2 mb-6">
-              <Badge variant="secondary" className="bg-[#7e1d22] text-white text-xs px-3 py-1">
-                BUY 2 GET 1 FREE
-              </Badge>
-            </div>
-
-            <div className="grid md:grid-cols-2 gap-8 items-center">
-              <div>
-                <h3 className="text-2xl font-bold mb-4 text-slate-900">EVIDENCE-BASED FORMULA WITH ONE DAILY SERVING</h3>
-                <p className="text-rose-800 font-semibold mb-6">BUY 2 GET 1 FREE - Limited Time Offer</p>
-                
-                <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
-                  <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-auto" />
-                </div>
-
-                <ul className="space-y-2 text-sm">
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Clinical-Dose Red Yeast Rice (2400mg)</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Protective CoQ10 (200mg)</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>No Horse-Sized Pills to Swallow</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Zero Muscle Pain or Fatigue</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Third-Party Tested & Citrinin-Free</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                    <span>Free Shipping on Orders Over $50 + 90-Day Guarantee</span>
-                  </li>
-                </ul>
+            <div className="max-w-2xl mx-auto text-center">
+              <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
+                <img src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800" alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10" className="w-full h-auto" />
               </div>
 
-              <div className="bg-white rounded-lg p-6 shadow-lg">
-                <div className="text-center mb-4">
-                  <Badge variant="secondary" className="bg-red-500 text-white mb-2">
-                    <Gift className="w-4 h-4 mr-1" />
-                    BUY 2 GET 1 FREE
-                  </Badge>
-                  <h4 className="text-2xl font-bold text-slate-900 mb-2">BUY 2 GET 1 FREE - LIMITED TIME ONLY</h4>
-                  <p className="text-sm text-slate-600 mb-4">This limited-time deal is in high demand and stock keeps selling out.</p>
-                </div>
+              <p className="text-sm text-slate-600 mb-6">This limited-time deal is in high demand and stock keeps selling out.</p>
 
-                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-4 shadow-lg">
-                  BUY 2 GET 1 FREE →
-                </Button>
+              <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
+                BUY 2 GET 1 FREE →
+              </Button>
 
-                <div className="space-y-2 text-sm mb-4">
-                  <div className="flex items-center gap-2">
-                    <span className="text-slate-700">Sell-Out Risk:</span>
-                    <span className="text-red-600 font-bold">High</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <Check className="w-4 h-4 text-green-600 flex-shrink-0" />
-                    <span className="font-semibold text-slate-900">Free Shipping on Orders Over $50</span>
-                  </div>
-                </div>
-
-                <p className="text-center text-xs text-slate-600">
-                  Try it today with a 90-Day Money Back Guarantee! If you don't see LDL improvement, you don't pay.
-                </p>
-              </div>
+              <ul className="space-y-3 text-left max-w-md mx-auto">
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Clinical-Dose Red Yeast Rice (2400mg)</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Protective CoQ10 (200mg)</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>No Horse-Sized Pills to Swallow</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Zero Muscle Pain or Fatigue</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Third-Party Tested & Citrinin-Free</span>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
+                  <span>Free Shipping on Orders Over $50 + 90-Day Guarantee</span>
+                </li>
+              </ul>
             </div>
           </div>
         </article>
