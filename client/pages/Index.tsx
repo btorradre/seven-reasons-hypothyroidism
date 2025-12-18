@@ -265,14 +265,14 @@ export default function Index() {
                   BUY 2 GET 1 FREE →
                 </Button>
 
-                <div className="flex items-center justify-between text-sm mb-4 flex-wrap gap-y-2">
+                <div className="space-y-2 text-sm mb-4">
                   <div className="flex items-center gap-2">
-                    <span>Sell-Out Risk:</span>
+                    <span className="text-slate-700">Sell-Out Risk:</span>
                     <span className="text-red-600 font-bold">High</span>
                   </div>
                   <div className="flex items-center gap-2">
-                    <Check className="w-4 h-4 text-green-600" />
-                    <span className="font-semibold">Free Shipping on Orders Over $50</span>
+                    <Check className="w-4 h-4 text-green-600 flex-shrink-0" />
+                    <span className="font-semibold text-slate-900">Free Shipping on Orders Over $50</span>
                   </div>
                 </div>
 
@@ -400,14 +400,14 @@ export default function Index() {
                   BUY 2 GET 1 FREE →
                 </Button>
 
-                <div className="flex items-center justify-between text-sm mb-4 flex-wrap gap-y-2">
+                <div className="space-y-2 text-sm mb-4">
                   <div className="flex items-center gap-2">
-                    <span>Sell-Out Risk:</span>
+                    <span className="text-slate-700">Sell-Out Risk:</span>
                     <span className="text-red-600 font-bold">High</span>
                   </div>
                   <div className="flex items-center gap-2">
-                    <Check className="w-4 h-4 text-green-600" />
-                    <span className="font-semibold">Free Shipping on Orders Over $50</span>
+                    <Check className="w-4 h-4 text-green-600 flex-shrink-0" />
+                    <span className="font-semibold text-slate-900">Free Shipping on Orders Over $50</span>
                   </div>
                 </div>
 
@@ -622,14 +622,14 @@ export default function Index() {
                   BUY 2 GET 1 FREE →
                 </Button>
 
-                <div className="flex items-center justify-between text-sm mb-4 flex-wrap gap-y-2">
+                <div className="space-y-2 text-sm mb-4">
                   <div className="flex items-center gap-2">
-                    <span>Sell-Out Risk:</span>
+                    <span className="text-slate-700">Sell-Out Risk:</span>
                     <span className="text-red-600 font-bold">High</span>
                   </div>
                   <div className="flex items-center gap-2">
-                    <Check className="w-4 h-4 text-green-600" />
-                    <span className="font-semibold">Free Shipping on Orders Over $50</span>
+                    <Check className="w-4 h-4 text-green-600 flex-shrink-0" />
+                    <span className="font-semibold text-slate-900">Free Shipping on Orders Over $50</span>
                   </div>
                 </div>
 
