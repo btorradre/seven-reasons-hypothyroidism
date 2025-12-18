@@ -122,9 +122,11 @@ export default function Index() {
 
           {/* Expert Box */}
           <div className="bg-white border border-slate-200 rounded-lg p-5 shadow-sm inline-flex items-center gap-4 mb-12">
-            <div className="w-16 h-16 rounded-full bg-gradient-to-br from-rose-100 to-rose-200 flex items-center justify-center flex-shrink-0">
-              <span className="text-2xl font-bold text-rose-800">SC</span>
-            </div>
+            <img
+              src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fd9c7a9d989434d4ab671270455079a00?format=webp&width=800"
+              alt="Dr. Sarah Chen"
+              className="w-16 h-16 rounded-full object-cover flex-shrink-0"
+            />
             <div>
               <div className="flex items-center gap-2 mb-1">
                 <h3 className="font-bold text-slate-900">Dr. Sarah Chen</h3>
