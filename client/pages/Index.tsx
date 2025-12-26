@@ -462,7 +462,7 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  7. Supports Long-Term Heart Health Without Creating New
+                  5. Supports Long-Term Heart Health Without Creating New
                   Diseases
                 </h2>
 
@@ -496,7 +496,7 @@ export default function Index() {
             </div>
           </section>
 
-          {/* Item 8 */}
+          {/* Item 6 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Visual on the left */}
@@ -511,7 +511,7 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  8. Preserves Mental Clarity Instead of Stealing It
+                  6. Preserves Mental Clarity Instead of Stealing It
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
