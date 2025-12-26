@@ -447,52 +447,7 @@ export default function Index() {
             </div>
           </div>
 
-          {/* Item 6 */}
-          <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Visual on the left */}
-              <div>
-                <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8b5b48b177b745ed98a5b397a97c40d7?format=webp&width=800"
-                  alt="Before and after: Medicine cabinet full of prescription bottles vs single Lunessa bottle"
-                  className="w-full rounded-lg shadow-lg object-cover"
-                />
-              </div>
-
-              {/* Content on the right */}
-              <div>
-                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  6. Nature's Statin Mechanism vs. Pharmaceutical Side Effect
-                  Cascade
-                </h2>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins work—but at what cost? Users report the drug creates
-                  cascading problems: muscle pain that prevents exercise (the
-                  very thing that protects your heart), brain fog described as
-                  "like I'm walking around in a haze... like I'm not me," and
-                  side effects so severe some describe feeling "literally
-                  poisoned."
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa combines red yeast rice at clinical strength
-                  (2400mg)—naturally containing monacolin K that works through
-                  the same HMG-CoA reductase pathway as lovastatin—plus
-                  protective CoQ10 (200mg) to prevent the muscle and energy
-                  depletion statins cause.
-                </p>
-
-                <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Attack genetic cholesterol through the proven mevalonate
-                  pathway inhibition, without creating new health problems that
-                  require more medications.
-                </p>
-              </div>
-            </div>
-          </section>
-
-          {/* Item 7 */}
+          {/* Item 5 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Visual on the left */}
