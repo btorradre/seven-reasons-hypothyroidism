@@ -86,7 +86,7 @@ export default function Index() {
           <div className="h-1 bg-gradient-to-r from-slate-200 via-slate-300 to-slate-200 mb-8"></div>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
-            10 Reasons{" "}
+            7 Reasons{" "}
             <span className="text-[#7e1d22]">
               People with FH Choose This Over Statins
             </span>{" "}
