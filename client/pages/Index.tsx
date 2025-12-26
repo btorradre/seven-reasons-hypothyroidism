@@ -300,7 +300,7 @@ export default function Index() {
             </div>
           </div>
 
-          {/* Item 4 */}
+          {/* Item 3 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Image on the left */}
@@ -315,7 +315,7 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  4. Easy Compliance Without Prescription Dependency
+                  3. Easy Compliance Without Prescription Dependency
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -342,7 +342,7 @@ export default function Index() {
             </div>
           </section>
 
-          {/* Item 5 */}
+          {/* Item 4 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Image on the left */}
@@ -357,7 +357,7 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  5. Third-Party Tested Purity vs. Big Pharma's Side Effect
+                  4. Third-Party Tested Purity vs. Big Pharma's Side Effect
                   Denial
                 </h2>
 
