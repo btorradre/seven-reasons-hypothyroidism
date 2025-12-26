@@ -242,54 +242,6 @@ export default function Index() {
             </div>
           </section>
 
-          {/* Item 3 */}
-          <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Image on the left */}
-              <div>
-                <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe26a626a5dca414f84cc5718c12e6634?format=webp&width=800"
-                  alt="Before and after: Woman with back pain vs cooking healthy meal with red yeast rice"
-                  className="w-full rounded-lg shadow-lg object-cover"
-                />
-              </div>
-
-              {/* Content on the right */}
-              <div>
-                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. Manages Cholesterol Without The Side Effect Nightmare
-                </h2>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  People with FH are already doing everything right—strict
-                  diets, regular exercise, zero processed foods. One user shared
-                  the frustration:{" "}
-                  <span className="font-semibold">
-                    "I eat whole food plant-based with no oil, no nuts, no
-                    seeds, no avocados. My LDL is still 160 with ezetimibe."
-                  </span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The last thing you need is a medication that makes you feel
-                  worse than your condition. Statin users describe feeling
-                  "literally poisoned," experiencing "debilitating muscle and
-                  joint pain," and developing side effects so severe they end up
-                  in the ER.
-                </p>
-
-                <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Clinical-strength red yeast rice works to inhibit cholesterol
-                  synthesis through the mevalonate pathway—with users reporting
-                  dramatic results: "Without any dietary changes, his
-                  cholesterol went from 245 to 177" and "my cholesterol dropped
-                  from 225 to 173 after 10 weeks"—without the side effect
-                  cascade.
-                </p>
-              </div>
-            </div>
-          </section>
-
           {/* CTA Section 1 */}
           <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="max-w-2xl mx-auto text-center">
