@@ -396,7 +396,7 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fc92365deea6e432ca5b19e1b6374520a?format=webp&width=800"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F57378778fb794049b5a25a52d442a056?format=webp&width=800"
                   alt="Before and after: Woman at doctor visit vs happy at home with Lunessa product"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
