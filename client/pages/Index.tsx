@@ -546,57 +546,7 @@ export default function Index() {
             </div>
           </section>
 
-          {/* Item 9 */}
-          <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Visual on the left */}
-              <div>
-                <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F316b3283873245ac8c5f0f5a4e036b5f?format=webp&width=800"
-                  alt="Lunessa Red Yeast Rice + CoQ10 bottles on store shelves"
-                  className="w-full rounded-lg shadow-lg object-cover"
-                />
-              </div>
-
-              {/* Content on the right */}
-              <div>
-                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  9. Complete Transparency vs. Decades of Corporate Denial
-                </h2>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Pharmaceutical companies minimized statin side effects for
-                  over 30 years while patients suffered:{" "}
-                  <span className="font-semibold">
-                    "Everyone needs to know that statins can do permanent nerve
-                    and muscle damage!"
-                  </span>{" "}
-                  One user's experience:{" "}
-                  <span className="font-semibold">
-                    "The muscle pain can be debilitating. My cardiologist told
-                    me the statin side effect of muscle aches can feel just like
-                    the flu."
-                  </span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Every batch undergoes rigorous third-party testing with
-                  complete ingredient transparency and citrinin-free
-                  certification (the toxin that can contaminate poorly made red
-                  yeast rice). Clinical dosing at 2400mg red yeast rice + 200mg
-                  CoQ10 per serving.
-                </p>
-
-                <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Trust ingredients proven in clinical studies to lower LDL by
-                  up to 30%, not corporate denials designed to protect
-                  billion-dollar drug patents.
-                </p>
-              </div>
-            </div>
-          </section>
-
-          {/* Item 10 */}
+          {/* Item 7 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
               {/* Image on the left */}
