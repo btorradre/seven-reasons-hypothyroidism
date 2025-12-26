@@ -561,7 +561,7 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  10. Join Thousands Who've Escaped The Statin Side Effect Trap
+                  7. Join Thousands Who've Escaped The Statin Side Effect Trap
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
