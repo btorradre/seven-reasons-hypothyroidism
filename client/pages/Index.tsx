@@ -303,11 +303,11 @@ export default function Index() {
           {/* Item 3 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Image on the left */}
+              {/* Visual on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe995e2e33da44353b7a3138a955596c4?format=webp&width=800"
-                  alt="Before and after: Woman struggling with pills vs easily taking gummy supplement"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F870c21147f4e4e88a9e20084a4e08d9e?format=webp&width=800"
+                  alt="Woman running outdoors for heart health"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
               </div>
@@ -315,28 +315,35 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. Easy Compliance Without Prescription Dependency
+                  3. Supports Long-Term Heart Health Without Creating New
+                  Diseases
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins require lifelong prescriptions, dismissive
-                  appointments, and insurance battles—all while feeling worse
-                  than before you started. 38% of adults struggle to swallow
-                  pills, and many people with FH are already taking multiple
-                  medications.
+                  While statins suppress cholesterol production, research shows
+                  they can increase diabetes risk and deplete CoQ10 stores
+                  essential for heart muscle function. One user discovered:{" "}
+                  <span className="font-semibold">
+                    "Statins brought my A1C to pre-diabetic levels and rendered
+                    me useless with side effects."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  This pharmaceutical-grade gummy formula makes daily adherence
-                  effortless—zero prescription gatekeeping, zero doctor
-                  appointments to get your refill, and complete freedom to
-                  manage your health on your own terms.
+                  Red yeast rice naturally modulates the same cholesterol
+                  synthesis pathway while CoQ10 protects cellular energy
+                  production—supporting cardiovascular function without the
+                  metabolic trade-offs. Users report:{" "}
+                  <span className="font-semibold">
+                    "Red yeast rice plus CoQ10 lowered my LDL from 148 to 55.
+                    Yes, in the U.S."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  As one user celebrating RYR success said: "I refused statins.
-                  My doctor thought it was the statin working. I told him and he
-                  was okay with it based on my labs."
+                  Work WITH your body's biochemistry instead of creating
+                  pharmaceutical dependency that trades one health crisis for
+                  another.
                 </p>
               </div>
             </div>
@@ -345,11 +352,11 @@ export default function Index() {
           {/* Item 4 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Image on the left */}
+              {/* Visual on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F57378778fb794049b5a25a52d442a056?format=webp&width=800"
-                  alt="Before and after: Woman at doctor visit vs happy at home with Lunessa product"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F52945beca171406ebd6a00bbf9bc52df?format=webp&width=800"
+                  alt="Before and after: Woman with brain fog vs focused and working with Lunessa"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
               </div>
@@ -357,33 +364,36 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  4. Third-Party Tested Purity vs. Big Pharma's Side Effect
-                  Denial
+                  4. Preserves Mental Clarity Instead of Stealing It
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Pharmaceutical companies dismissed statin side effects for
-                  decades—telling patients their muscle pain was "rare" and
-                  cognitive decline was "unproven" while dismissing them as
-                  "anxious" or "just stressed." One user's permanent muscle
-                  damage:{" "}
+                  Statin users describe terrifying cognitive effects:{" "}
                   <span className="font-semibold">
-                    "I stopped taking statins more than a year ago and I am
-                    still in pain, still can't walk upstairs without pain."
-                  </span>
+                    "within a week [of stopping], the brain fog lifted. I hadn't
+                    realised how bad I had felt for years,"
+                  </span>{" "}
+                  <span className="font-semibold">
+                    "couldn't think clearly,"
+                  </span>{" "}
+                  and{" "}
+                  <span className="font-semibold">
+                    "felt like I was losing my mind."
+                  </span>{" "}
+                  For those watching parents decline with dementia, any
+                  cognitive impact is unacceptable.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Every batch of Lunessa is third-party tested and certified
-                  citrinin-free (the dangerous toxin found in poorly made red
-                  yeast rice) using pharmaceutical-grade precision at clinical
-                  doses: 2400mg red yeast rice + 200mg CoQ10 per serving.
+                  Natural cholesterol management through red yeast rice supports
+                  cardiovascular function through the mevalonate pathway while
+                  preserving the mental clarity and memory statins compromise.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Get the same cholesterol-lowering mechanism statins use, with
-                  the safety testing and CoQ10 protection Big Pharma refuses to
-                  provide.
+                  Wake up with sharp thinking and your personality intact
+                  instead of wondering if this is "just getting older" or
+                  medication damage.
                 </p>
               </div>
             </div>
@@ -450,11 +460,11 @@ export default function Index() {
           {/* Item 5 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Visual on the left */}
+              {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F870c21147f4e4e88a9e20084a4e08d9e?format=webp&width=800"
-                  alt="Woman running outdoors for heart health"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe995e2e33da44353b7a3138a955596c4?format=webp&width=800"
+                  alt="Before and after: Woman struggling with pills vs easily taking gummy supplement"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
               </div>
@@ -462,35 +472,28 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  5. Supports Long-Term Heart Health Without Creating New
-                  Diseases
+                  5. Easy Compliance Without Prescription Dependency
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  While statins suppress cholesterol production, research shows
-                  they can increase diabetes risk and deplete CoQ10 stores
-                  essential for heart muscle function. One user discovered:{" "}
-                  <span className="font-semibold">
-                    "Statins brought my A1C to pre-diabetic levels and rendered
-                    me useless with side effects."
-                  </span>
+                  Statins require lifelong prescriptions, dismissive
+                  appointments, and insurance battles—all while feeling worse
+                  than before you started. 38% of adults struggle to swallow
+                  pills, and many people with FH are already taking multiple
+                  medications.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice naturally modulates the same cholesterol
-                  synthesis pathway while CoQ10 protects cellular energy
-                  production—supporting cardiovascular function without the
-                  metabolic trade-offs. Users report:{" "}
-                  <span className="font-semibold">
-                    "Red yeast rice plus CoQ10 lowered my LDL from 148 to 55.
-                    Yes, in the U.S."
-                  </span>
+                  This pharmaceutical-grade gummy formula makes daily adherence
+                  effortless—zero prescription gatekeeping, zero doctor
+                  appointments to get your refill, and complete freedom to
+                  manage your health on your own terms.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Work WITH your body's biochemistry instead of creating
-                  pharmaceutical dependency that trades one health crisis for
-                  another.
+                  As one user celebrating RYR success said: "I refused statins.
+                  My doctor thought it was the statin working. I told him and he
+                  was okay with it based on my labs."
                 </p>
               </div>
             </div>
@@ -499,11 +502,11 @@ export default function Index() {
           {/* Item 6 */}
           <section className="scroll-mt-20">
             <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Visual on the left */}
+              {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F52945beca171406ebd6a00bbf9bc52df?format=webp&width=800"
-                  alt="Before and after: Woman with brain fog vs focused and working with Lunessa"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F57378778fb794049b5a25a52d442a056?format=webp&width=800"
+                  alt="Before and after: Woman at doctor visit vs happy at home with Lunessa product"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
               </div>
@@ -511,36 +514,33 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  6. Preserves Mental Clarity Instead of Stealing It
+                  6. Third-Party Tested Purity vs. Big Pharma's Side Effect
+                  Denial
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statin users describe terrifying cognitive effects:{" "}
+                  Pharmaceutical companies dismissed statin side effects for
+                  decades—telling patients their muscle pain was "rare" and
+                  cognitive decline was "unproven" while dismissing them as
+                  "anxious" or "just stressed." One user's permanent muscle
+                  damage:{" "}
                   <span className="font-semibold">
-                    "within a week [of stopping], the brain fog lifted. I hadn't
-                    realised how bad I had felt for years,"
-                  </span>{" "}
-                  <span className="font-semibold">
-                    "couldn't think clearly,"
-                  </span>{" "}
-                  and{" "}
-                  <span className="font-semibold">
-                    "felt like I was losing my mind."
-                  </span>{" "}
-                  For those watching parents decline with dementia, any
-                  cognitive impact is unacceptable.
+                    "I stopped taking statins more than a year ago and I am
+                    still in pain, still can't walk upstairs without pain."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Natural cholesterol management through red yeast rice supports
-                  cardiovascular function through the mevalonate pathway while
-                  preserving the mental clarity and memory statins compromise.
+                  Every batch of Lunessa is third-party tested and certified
+                  citrinin-free (the dangerous toxin found in poorly made red
+                  yeast rice) using pharmaceutical-grade precision at clinical
+                  doses: 2400mg red yeast rice + 200mg CoQ10 per serving.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Wake up with sharp thinking and your personality intact
-                  instead of wondering if this is "just getting older" or
-                  medication damage.
+                  Get the same cholesterol-lowering mechanism statins use, with
+                  the safety testing and CoQ10 protection Big Pharma refuses to
+                  provide.
                 </p>
               </div>
             </div>
