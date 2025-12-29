@@ -257,8 +257,8 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. The Muscle Pain Isn't "Rare"—It's Predictable
-                  Mitochondrial Damage
+                  3. The Muscle Pain Isn't "Rare"—It's Predictable Mitochondrial
+                  Damage
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
