@@ -358,8 +358,8 @@ export default function Index() {
               {/* Visual on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F52945beca171406ebd6a00bbf9bc52df?format=webp&width=800"
-                  alt="Before and after: Woman with brain fog vs focused and working with Lunessa"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F933bcfad2f33468189580eda295c11b1?format=webp&width=800"
+                  alt="Woman at doctor appointment concerned about multiple medication bottles and pill compliance"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
               </div>
