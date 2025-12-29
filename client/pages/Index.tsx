@@ -86,11 +86,11 @@ export default function Index() {
           <div className="h-1 bg-gradient-to-r from-slate-200 via-slate-300 to-slate-200 mb-8"></div>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
-            7 Reasons People with FH Are{" "}
+            7 Reasons{" "}
             <span className="text-[#7e1d22]">
-              Choosing Red Yeast Rice + CoQ10 Over Statins
+              People with FH Choose This Over Statins
             </span>{" "}
-            (And How to Do It Safely)
+            for Their Genetic Cholesterol
           </h1>
 
           <p className="text-lg sm:text-xl font-semibold mb-4 text-slate-800">
