@@ -463,8 +463,8 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe995e2e33da44353b7a3138a955596c4?format=webp&width=800"
-                  alt="Before and after: Woman struggling with pills vs easily taking gummy supplement"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F73b1fc3548b24ff299e758169930c05b?format=webp&width=800"
+                  alt="Warning symbol over cheap red yeast rice bottle showing citrinin contamination risk"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
               </div>
