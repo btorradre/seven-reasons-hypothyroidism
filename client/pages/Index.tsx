@@ -153,8 +153,8 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2477cc88aa41412ab116ccfc8555619a?format=webp&width=800"
-                  alt="Lunessa vs Statins comparison showing raspberry gummies with clinical dose and prescription bottle"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F845fa50bcaa94915a664c3013b864c70?format=webp&width=800"
+                  alt="Mitochondrial cell showing cellular energy production and CoQ10 function"
                   className="w-full rounded-lg shadow-lg"
                 />
               </div>
