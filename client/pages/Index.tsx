@@ -105,11 +105,11 @@ export default function Index() {
           </p>
 
           <p className="text-base sm:text-lg mb-6 leading-relaxed text-slate-700">
-            Fortunately, a breakthrough natural cholesterol management solution
-            combining red yeast rice and CoQ10 in gummy form is helping people
-            break free from statin dependency while managing their genetic
-            cholesterol—with testimonials reporting LDL drops from 245 to 177
-            without dietary changes.
+            Fortunately, a breakthrough natural cholesterol management approach
+            combining clinical-dose red yeast rice with protective CoQ10 is
+            helping people break free from statin dependency while managing
+            their genetic cholesterol—with testimonials reporting LDL drops from
+            245 to 177 without dietary changes.
           </p>
 
           <div className="bg-rose-50 border-l-4 border-[#7e1d22] p-4 my-8">
@@ -153,40 +153,39 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2477cc88aa41412ab116ccfc8555619a?format=webp&width=800"
-                  alt="Lunessa vs Statins comparison showing raspberry gummies with clinical dose and prescription bottle"
-                  className="w-full rounded-lg shadow-lg"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F845fa50bcaa94915a664c3013b864c70?format=webp&width=800"
+                  alt="Mitochondrial cell showing cellular energy production and CoQ10 function"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  1. Clinical-Dose Red Yeast Rice (2400mg) vs. Statin's Same
-                  Mechanism Without Protection
+                  1. The "Binary Shield" Protocol: Blocking Cholesterol Without
+                  Depleting Your Cellular Battery
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins block your body's cholesterol production through the
-                  HMG-CoA reductase pathway—but they also strip away CoQ10, the
-                  vital nutrient your cells need for energy. This creates the
-                  "exhausted and useless" feeling statin users describe.
+                  Statins block cholesterol through the HMG-CoA reductase
+                  pathway—but they also strip away CoQ10, the vital nutrient
+                  your cells need for energy. This creates the "exhausted and
+                  useless" feeling statin users describe.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa provides 2400mg of red yeast rice naturally containing
-                  monacolin K (the same active compound found in lovastatin)
-                  PLUS 200mg of CoQ10 per serving—working through the same
-                  cholesterol-lowering pathway while protecting your cellular
-                  energy. Third-party tested. Proper dosing based on clinical
-                  studies. And gummies—not those horse-sized pills I'd been
-                  choking down.
+                  The natural alternative works differently: Red yeast rice
+                  naturally contains monacolin K, which modulates the same
+                  HMG-CoA pathway—but at lower, gentler doses. The critical
+                  difference? When paired with 200mg of CoQ10, you're replacing
+                  what the cholesterol-blocking mechanism depletes.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Finally address your genetic cholesterol with nature's
-                  low-dose statin approach, not pharmaceutical doses that steal
-                  your vitality.
+                  Clinical studies show this "Binary Shield" approach—2400mg red
+                  yeast rice PLUS protective CoQ10—delivers cardiovascular
+                  support without stripping your mitochondria of their energy
+                  source.
                 </p>
               </div>
             </div>
@@ -198,21 +197,73 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Ff5ab4b441a3c4a1791816ea2d9e02451?format=webp&width=800"
-                  alt="Before and after: Woman struggling with stairs vs easily carrying groceries"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F94077c13f4014f35a4f09d56f9d2c0c8?format=webp&width=800"
+                  alt="Woman experiencing brain fog and exhaustion while working at desk"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  2. Lowers Cholesterol Without Destroying Your Quality of Life
+                  2. Why Your Brain Fog Isn't "Just Getting Older"—It's CoQ10
+                  Depletion
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statin users report debilitating side effects in their own
-                  words:{" "}
+                  Statin users describe terrifying cognitive effects:{" "}
+                  <span className="font-semibold">
+                    "within a week of stopping, the brain fog lifted. I hadn't
+                    realised how bad I had felt for years,"
+                  </span>{" "}
+                  <span className="font-semibold">
+                    "couldn't think clearly,"
+                  </span>{" "}
+                  and{" "}
+                  <span className="font-semibold">
+                    "felt like I was losing my mind."
+                  </span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Your brain is the most energy-demanding organ in your body.
+                  When statins deplete CoQ10 stores, your brain cells literally
+                  cannot generate the power they need to function.
+                </p>
+
+                <p className="text-lg leading-relaxed font-semibold text-slate-900">
+                  The natural cholesterol management protocol must include CoQ10
+                  protection. Red yeast rice modulates cholesterol synthesis
+                  while 200mg of CoQ10 per serving preserves the mitochondrial
+                  energy production your brain depends on—protecting mental
+                  clarity and memory that statins compromise.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          {/* Item 3 */}
+          <section className="scroll-mt-20">
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
+              {/* Visual on the left */}
+              <div>
+                <img
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F81b591b35bbf4482bfe286af1f1b3018?format=webp&width=800"
+                  alt="Before and after: Woman struggling with stairs vs easily carrying groceries"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
+                />
+              </div>
+
+              {/* Content on the right */}
+              <div>
+                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                  3. The Muscle Pain Isn't "Rare"—It's Predictable Mitochondrial
+                  Damage
+                </h2>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Pharmaceutical companies dismissed statin side effects for
+                  decades. The reality? Statin users report:{" "}
                   <span className="font-semibold">
                     "muscle pain so intense... spasms so bad in low back, legs
                     and hip... put me in ER,"
@@ -227,123 +278,17 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  This complete formula works to manage cholesterol production
-                  while replenishing the CoQ10 statins deplete—delivering
-                  cardiovascular support without the muscle destruction that
-                  makes stairs feel impossible.
+                  This isn't a mysterious side effect. It's basic biochemistry.
+                  Your muscle cells—especially your heart muscle—are packed with
+                  mitochondria that burn CoQ10 to generate movement. Statins
+                  create a predictable energy crisis at the cellular level.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Experience actual cholesterol management while keeping the
-                  energy to live your life, not trade one problem for constant
-                  pain.
-                </p>
-              </div>
-            </div>
-          </section>
-
-          {/* CTA Section 1 */}
-          <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
-            <div className="max-w-2xl mx-auto text-center">
-              <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
-                <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800"
-                  alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10"
-                  className="w-full h-auto"
-                />
-              </div>
-
-              <p className="text-sm text-slate-600 mb-6">
-                This limited-time deal is in high demand and stock keeps selling
-                out.
-              </p>
-
-              <a
-                href="https://shoplunessa.store/products/lunessa"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block"
-              >
-                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
-                  BUY 2 GET 1 FREE →
-                </Button>
-              </a>
-
-              <ul className="space-y-3 text-left max-w-md mx-auto">
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Clinical-Dose Red Yeast Rice (2400mg)</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Protective CoQ10 (200mg)</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>No Horse-Sized Pills to Swallow</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Zero Muscle Pain or Fatigue</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Third-Party Tested & Citrinin-Free</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>
-                    Free Shipping on Orders Over $50 + 90-Day Guarantee
-                  </span>
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          {/* Item 3 */}
-          <section className="scroll-mt-20">
-            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-start">
-              {/* Visual on the left */}
-              <div>
-                <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F870c21147f4e4e88a9e20084a4e08d9e?format=webp&width=800"
-                  alt="Woman running outdoors for heart health"
-                  className="w-full rounded-lg shadow-lg object-cover"
-                />
-              </div>
-
-              {/* Content on the right */}
-              <div>
-                <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. Supports Long-Term Heart Health Without Creating New
-                  Diseases
-                </h2>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  While statins suppress cholesterol production, research shows
-                  they can increase diabetes risk and deplete CoQ10 stores
-                  essential for heart muscle function. One user discovered:{" "}
-                  <span className="font-semibold">
-                    "Statins brought my A1C to pre-diabetic levels and rendered
-                    me useless with side effects."
-                  </span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice naturally modulates the same cholesterol
-                  synthesis pathway while CoQ10 protects cellular energy
-                  production—supporting cardiovascular function without the
-                  metabolic trade-offs. Users report:{" "}
-                  <span className="font-semibold">
-                    "Red yeast rice plus CoQ10 lowered my LDL from 148 to 55.
-                    Yes, in the U.S."
-                  </span>
-                </p>
-
-                <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Work WITH your body's biochemistry instead of creating
-                  pharmaceutical dependency that trades one health crisis for
-                  another.
+                  The 2400mg red yeast rice protocol works to manage cholesterol
+                  production while the CoQ10 component replenishes what gets
+                  depleted—delivering cardiovascular support without the muscle
+                  destruction that makes stairs feel impossible.
                 </p>
               </div>
             </div>
@@ -355,107 +300,46 @@ export default function Index() {
               {/* Visual on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F52945beca171406ebd6a00bbf9bc52df?format=webp&width=800"
-                  alt="Before and after: Woman with brain fog vs focused and working with Lunessa"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F4b9e986873394d659b280ed8cbebfe03?format=webp&width=800"
+                  alt="Woman struggling to swallow large pills highlighting the compliance challenges"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  4. Preserves Mental Clarity Instead of Stealing It
+                  4. The Compliance Revolution: Why Pills Are Sabotaging Your
+                  Success
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statin users describe terrifying cognitive effects:{" "}
-                  <span className="font-semibold">
-                    "within a week [of stopping], the brain fog lifted. I hadn't
-                    realised how bad I had felt for years,"
-                  </span>{" "}
-                  <span className="font-semibold">
-                    "couldn't think clearly,"
-                  </span>{" "}
-                  and{" "}
-                  <span className="font-semibold">
-                    "felt like I was losing my mind."
-                  </span>{" "}
-                  For those watching parents decline with dementia, any
-                  cognitive impact is unacceptable.
+                  38% of adults struggle to swallow pills. For people with FH
+                  already taking multiple medications, adding another
+                  horse-sized statin pill creates a psychological barrier that
+                  destroys adherence. You miss doses. You dread mornings. You
+                  eventually stop.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Natural cholesterol management through red yeast rice supports
-                  cardiovascular function through the mevalonate pathway while
-                  preserving the mental clarity and memory statins compromise.
+                  The gummy delivery format solves what the medical system won't
+                  acknowledge: compliance technology matters as much as
+                  biochemistry. When taking your cholesterol support is as easy
+                  as chewing a raspberry-flavored gummy instead of gagging down
+                  a chalky pill, daily adherence becomes effortless.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Wake up with sharp thinking and your personality intact
-                  instead of wondering if this is "just getting older" or
-                  medication damage.
+                  Users celebrate this shift:{" "}
+                  <span className="font-semibold">
+                    "I refused statins. My doctor thought it was the statin
+                    working. I told him and he was okay with it based on my
+                    labs."
+                  </span>
                 </p>
               </div>
             </div>
           </section>
-
-          {/* CTA Section 2 */}
-          <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
-            <div className="max-w-2xl mx-auto text-center">
-              <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
-                <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800"
-                  alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10"
-                  className="w-full h-auto"
-                />
-              </div>
-
-              <p className="text-sm text-slate-600 mb-6">
-                This limited-time deal is in high demand and stock keeps selling
-                out.
-              </p>
-
-              <a
-                href="https://shoplunessa.store/products/lunessa"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block"
-              >
-                <Button className="w-full bg-[#7e1d22] hover:bg-[#6b1a1e] text-white text-lg py-6 mb-6 shadow-lg">
-                  BUY 2 GET 1 FREE →
-                </Button>
-              </a>
-
-              <ul className="space-y-3 text-left max-w-md mx-auto">
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Clinical-Dose Red Yeast Rice (2400mg)</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Protective CoQ10 (200mg)</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>No Horse-Sized Pills to Swallow</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Zero Muscle Pain or Fatigue</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>Third-Party Tested & Citrinin-Free</span>
-                </li>
-                <li className="flex items-center gap-2">
-                  <Check className="w-5 h-5 text-green-600 flex-shrink-0" />
-                  <span>
-                    Free Shipping on Orders Over $50 + 90-Day Guarantee
-                  </span>
-                </li>
-              </ul>
-            </div>
-          </div>
 
           {/* Item 5 */}
           <section className="scroll-mt-20">
@@ -463,37 +347,39 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe995e2e33da44353b7a3138a955596c4?format=webp&width=800"
-                  alt="Before and after: Woman struggling with pills vs easily taking gummy supplement"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F73b1fc3548b24ff299e758169930c05b?format=webp&width=800"
+                  alt="Warning symbol over cheap red yeast rice bottle showing citrinin contamination risk"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  5. Easy Compliance Without Prescription Dependency
+                  5. The Citrinin Crisis: Why "Cheap" Red Yeast Rice Could
+                  Destroy Your Kidneys
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins require lifelong prescriptions, dismissive
-                  appointments, and insurance battles—all while feeling worse
-                  than before you started. 38% of adults struggle to swallow
-                  pills, and many people with FH are already taking multiple
-                  medications.
+                  Poorly fermented red yeast rice contains citrinin, a
+                  nephrotoxic (kidney-damaging) mycotoxin that accumulates with
+                  chronic exposure. Generic "bargain bin" red yeast rice
+                  supplements often fail third-party testing for this dangerous
+                  contaminant.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  This pharmaceutical-grade gummy formula makes daily adherence
-                  effortless—zero prescription gatekeeping, zero doctor
-                  appointments to get your refill, and complete freedom to
-                  manage your health on your own terms.
+                  The safety gap between pharmaceutical-grade and generic red
+                  yeast rice is massive. Clinical-dose protocols (2400mg)
+                  require rigorous fermentation control, batch testing, and
+                  citrinin-free certification—not the unregulated production
+                  methods used for $9.99 bottles.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  As one user celebrating RYR success said: "I refused statins.
-                  My doctor thought it was the statin working. I told him and he
-                  was okay with it based on my labs."
+                  You need confirmation that every serving delivers 2400mg of
+                  red yeast rice and 200mg of CoQ10 without the toxic
+                  contaminants that make headlines when the FDA issues warnings.
                 </p>
               </div>
             </div>
@@ -505,42 +391,51 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F57378778fb794049b5a25a52d442a056?format=webp&width=800"
-                  alt="Before and after: Woman at doctor visit vs happy at home with Lunessa product"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F6d1dd042de974beb94205f451a6b0524?format=webp&width=800"
+                  alt="Hand taking Lunessa Red Yeast Rice + CoQ10 gummy from bottle showing easy compliance"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  6. Third-Party Tested Purity vs. Big Pharma's Side Effect
-                  Denial
+                  6. Lunessa: The Only Gummy That Meets Every Clinical Criteria
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Pharmaceutical companies dismissed statin side effects for
-                  decades—telling patients their muscle pain was "rare" and
-                  cognitive decline was "unproven" while dismissing them as
-                  "anxious" or "just stressed." One user's permanent muscle
-                  damage:{" "}
-                  <span className="font-semibold">
-                    "I stopped taking statins more than a year ago and I am
-                    still in pain, still can't walk upstairs without pain."
-                  </span>
+                  After establishing what a safe, effective natural cholesterol
+                  protocol requires—clinical dosing (2400mg RYR), protective
+                  CoQ10 (200mg), citrinin-free purity, and compliance-friendly
+                  format—the question becomes: which product actually delivers
+                  all of this?
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Every batch of Lunessa is third-party tested and certified
-                  citrinin-free (the dangerous toxin found in poorly made red
-                  yeast rice) using pharmaceutical-grade precision at clinical
-                  doses: 2400mg red yeast rice + 200mg CoQ10 per serving.
+                  Lunessa is the only red yeast rice + CoQ10 formula in gummy
+                  form that meets pharmaceutical-grade standards: 2400mg red
+                  yeast rice per serving (the clinical dose studied for
+                  cholesterol management), 200mg CoQ10 per serving (protective
+                  dosing for mitochondrial energy), third-party tested &
+                  certified citrinin-free (pharmaceutical-grade fermentation,
+                  zero kidney toxins), and gummy format (no horse-sized pills to
+                  choke down).
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Get the same cholesterol-lowering mechanism statins use, with
-                  the safety testing and CoQ10 protection Big Pharma refuses to
-                  provide.
+                  People across forums share success stories:{" "}
+                  <span className="font-semibold">
+                    "I've been taking it for ~6 months and my lipid levels have
+                    changed for the better enormously... LDL halved,"
+                  </span>{" "}
+                  <span className="font-semibold">
+                    "it works without the statin side effects (for me),"
+                  </span>{" "}
+                  and{" "}
+                  <span className="font-semibold">
+                    "my cardiologist recommended red yeast rice and my
+                    cholesterol went from 245 to 177 without changing my diet."
+                  </span>
                 </p>
               </div>
             </div>
@@ -552,9 +447,9 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8151e2abb532442b93912c7953a94255?format=webp&width=800"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F89362d31c45c4db0a0fac901defcd80b?format=webp&width=800"
                   alt="Happy woman holding Lunessa Red Yeast Rice + CoQ10 bottle"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -572,27 +467,21 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  People across forums share success stories:{" "}
+                  When thousands of people with FH refuse to go back to
+                  prescription dependency after discovering the 2400mg red yeast
+                  rice + 200mg CoQ10 protocol, you know something is working.
+                  Users report:{" "}
                   <span className="font-semibold">
-                    "I've been taking it for ~6 months and my lipid levels have
-                    changed for the better enormously... LDL halved,"
-                  </span>{" "}
-                  <span className="font-semibold">
-                    "it works without the statin side effects (for me). I
-                    refused statins,"
-                  </span>{" "}
-                  and{" "}
-                  <span className="font-semibold">
-                    "my cardiologist recommended red yeast rice from Costco and
-                    my cholesterol went from 245 to 177 without changing my
-                    diet."
+                    "Red yeast rice plus CoQ10 lowered my LDL from 148 to 55.
+                    Yes, in the U.S."
                   </span>
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  When thousands of people with FH refuse to go back to
-                  prescription dependency after discovering red yeast rice +
-                  CoQ10, you know something is working.
+                  Lunessa gives you complete freedom to manage your genetic
+                  cholesterol on your own terms—zero prescription gatekeeping,
+                  zero doctor appointments to get your refill, zero insurance
+                  battles while feeling worse than before you started.
                 </p>
               </div>
             </div>
@@ -603,9 +492,9 @@ export default function Index() {
             <div className="max-w-2xl mx-auto text-center">
               <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe07f1bc2ad0d452988c5400fc86d1365?format=webp&width=800"
                   alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10"
-                  className="w-full h-auto"
+                  className="w-full aspect-square object-cover rounded-lg"
                 />
               </div>
 
