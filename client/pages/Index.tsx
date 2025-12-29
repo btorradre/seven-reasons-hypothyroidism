@@ -155,7 +155,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F845fa50bcaa94915a664c3013b864c70?format=webp&width=800"
                   alt="Mitochondrial cell showing cellular energy production and CoQ10 function"
-                  className="w-full rounded-lg shadow-lg"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -199,7 +199,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F94077c13f4014f35a4f09d56f9d2c0c8?format=webp&width=800"
                   alt="Woman experiencing brain fog and exhaustion while working at desk"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -250,7 +250,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F81b591b35bbf4482bfe286af1f1b3018?format=webp&width=800"
                   alt="Before and after: Woman struggling with stairs vs easily carrying groceries"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -302,7 +302,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F4b9e986873394d659b280ed8cbebfe03?format=webp&width=800"
                   alt="Woman struggling to swallow large pills highlighting the compliance challenges"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -349,7 +349,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F73b1fc3548b24ff299e758169930c05b?format=webp&width=800"
                   alt="Warning symbol over cheap red yeast rice bottle showing citrinin contamination risk"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -393,7 +393,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F6d1dd042de974beb94205f451a6b0524?format=webp&width=800"
                   alt="Hand taking Lunessa Red Yeast Rice + CoQ10 gummy from bottle showing easy compliance"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -449,7 +449,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F89362d31c45c4db0a0fac901defcd80b?format=webp&width=800"
                   alt="Happy woman holding Lunessa Red Yeast Rice + CoQ10 bottle"
-                  className="w-full rounded-lg shadow-lg object-cover"
+                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
 
@@ -492,9 +492,9 @@ export default function Index() {
             <div className="max-w-2xl mx-auto text-center">
               <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2bb35d11b8fc416198f1440bcdd6b94c?format=webp&width=800"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe07f1bc2ad0d452988c5400fc86d1365?format=webp&width=800"
                   alt="Buy 2 Get 1 Free - Lunessa Red Yeast Rice + CoQ10"
-                  className="w-full h-auto"
+                  className="w-full aspect-square object-cover rounded-lg"
                 />
               </div>
 
