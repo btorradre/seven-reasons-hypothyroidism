@@ -306,8 +306,8 @@ export default function Index() {
               {/* Visual on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F870c21147f4e4e88a9e20084a4e08d9e?format=webp&width=800"
-                  alt="Woman running outdoors for heart health"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F81b591b35bbf4482bfe286af1f1b3018?format=webp&width=800"
+                  alt="Before and after: Woman struggling with stairs vs easily carrying groceries"
                   className="w-full rounded-lg shadow-lg object-cover"
                 />
               </div>
