@@ -354,8 +354,8 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F711db063061b4738971764ed6f36835a?format=webp&width=800"
-                  alt="Woman exhausted in bed experiencing fatigue from hypothyroidism and statin side effects"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F0b0cbcbc393043fd81ddde17b3c06696?format=webp&width=800"
+                  alt="Woman struggling to swallow pills with difficulty taking thyroid medication and statins"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
