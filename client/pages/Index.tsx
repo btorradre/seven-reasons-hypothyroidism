@@ -401,7 +401,7 @@ export default function Index() {
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F0f6f5807f91b41acbb1aba888918af2f?format=webp&width=800"
                   alt="Thyroid function cascade showing how reduced thyroid hormone leads to decreased LDL receptor production and cholesterol buildup"
-                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
+                  className="w-full aspect-auto object-contain rounded-lg shadow-lg"
                 />
               </div>
 
