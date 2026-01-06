@@ -105,7 +105,7 @@ export default function Index() {
             Something doesn't add up.
           </p>
 
-          <p className="text-base sm:text-lg mb-6 leading-relaxed text-slate-700">
+          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
             Before the 1970s, doctors diagnosed hypothyroidism by checking cholesterol levels. High cholesterol was considered a thyroid symptom. Modern medicine fractured that knowledge into separate specialties.
           </p>
 
@@ -165,7 +165,7 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You've been eating like a bird. Cut out red meat. No butter. No eggs. Mediterranean diet. Your LDL hit 226 anyway.
+                  You've been eating like a bird. Cut out red meat. No butter. No eggs. Your LDL hit 226 anyway.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -173,27 +173,23 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Here's what's actually happening: Thyroid hormone—specifically T3—tells your liver to build LDL receptors. These receptors pull cholesterol out of your blood and process it. When thyroid hormone is low, or when your liver can't respond to the signal properly, your liver stops building enough receptors.
+                  Here's what's actually happening: Thyroid hormone (T3) tells your liver to build LDL receptors. These receptors pull cholesterol out of your blood and process it. When thyroid hormone is low, your liver stops building enough receptors.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Result: Cholesterol piles up in your bloodstream no matter how clean you eat.
+                  Result: Cholesterol piles up no matter how clean you eat.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your doctor sees a TSH of 3.8 and says you're fine. Your cardiologist sees LDL of 240 and prescribes a statin. Nobody connects the dots.
+                  Before 1971, high cholesterol was how doctors diagnosed hypothyroidism. A 1952 textbook states: "A cholesterol level above 250 mg/dL in a patient presenting with cold intolerance, hair loss, and fatigue is diagnostic of hypothyroidism."
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Before TSH testing existed in 1971, high cholesterol was how doctors diagnosed hypothyroidism. A 1952 endocrinology textbook states: "A cholesterol level above 250 mg/dL in a patient presenting with cold intolerance, hair loss, and fatigue is diagnostic of hypothyroidism."
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Modern medicine fractured that knowledge. Now you get treated for a symptom instead of addressing the root cause.
+                  Modern medicine fractured that knowledge. Your endocrinologist looks at TSH. Your cardiologist looks at LDL. Nobody connects the dots.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  The problem isn't the cargo (your food). It's the dockworkers (your LDL receptors). Your liver port manager is asleep—or your liver can't hear the wake-up call.
+                  The problem isn't the cargo (your food). It's the dockworkers (your LDL receptors). Your liver port manager is asleep.
                 </p>
               </div>
             </div>
@@ -218,7 +214,7 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You already know what thyroid fatigue feels like. Sleeping 10 hours and waking up exhausted. Needing a nap after basic tasks. Brain fog so thick you forget familiar names.
+                  You already know thyroid fatigue. Sleeping 10 hours and waking up exhausted. Brain fog so thick you forget familiar names.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -226,33 +222,29 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins block an enzyme called HMG-CoA reductase. This stops your liver from making cholesterol. But it also stops your liver from making CoQ10—the fuel your mitochondria use to create cellular energy.
+                  Statins block cholesterol production. But they also block CoQ10 production—the fuel your mitochondria use to create cellular energy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Hypothyroidism already slows your mitochondria. Your cells already struggle to generate energy. That's why you're exhausted all the time. When you add a statin that depletes CoQ10 further, you create a compound energy crisis.
+                  Hypothyroidism already slows your mitochondria. Adding a statin creates a compound energy crisis.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  This isn't a "rare side effect." It's a mechanical certainty.
+                  This isn't a "rare side effect." It's a mechanical certainty:
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">Hypothyroidism:</span> Slows mitochondria, reduces ATP production.<br />
-                  <span className="font-semibold">Statins:</span> Depletes CoQ10, cripples the mitochondria that are still trying to work.<br />
-                  <span className="font-semibold">Result:</span> Stacking two mitochondrial toxins on top of each other.
+                  <span className="font-semibold">Statins:</span> Depletes CoQ10, cripples struggling mitochondria.<br />
+                  <span className="font-semibold">Result:</span> Stacking two mitochondrial toxins.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  One patient described it: <span className="font-semibold">"I was 46 and got real old very quick. The fatigue, muscle cramps, shooting pains... my doctor just blew me off."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Research confirms that hypothyroid patients have significantly higher rates of statin intolerance. Your brain can't form memories because it doesn't have the energy to encode them. Your muscles can't contract without pain because they don't have the energy to recover.
+                  One patient: <span className="font-semibold">"I was 46 and got real old very quick. The fatigue, muscle cramps, shooting pains... my doctor just blew me off."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  You're not choosing between high cholesterol and a heart attack. You're choosing between a number on a lab report and the energy to live your life.
+                  Your brain can't form memories without energy. Your muscles can't recover without fuel.
                 </p>
               </div>
             </div>
@@ -277,22 +269,16 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You already deal with joint pain. Maybe your legs ache when you climb stairs. Maybe your shoulders hurt when you lift groceries. Your doctor says it's "just hypothyroidism."
+                  You already deal with joint pain. Legs ache climbing stairs. Shoulders hurt lifting groceries.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Now add statin-induced muscle breakdown to that equation.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">
-                    "Muscle pain so intense... spasms so bad in low back, legs and hip... put me in ER."
-                  </span>
+                  Now add statin-induced muscle breakdown:
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">
-                    "Couldn't stand the pain in my legs."
+                    "Muscle pain so intense... spasms so bad... put me in ER."
                   </span>
                 </p>
 
@@ -303,19 +289,15 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Here's what they don't tell you: Hypothyroidism independently causes muscle weakness and myopathy. Statins independently cause muscle breakdown and pain. Research confirms that hypothyroidism is a known risk factor for statin-induced myopathy.
+                  Hypothyroidism independently causes muscle weakness. Statins independently cause muscle breakdown. Research confirms hypothyroidism is a known risk factor for statin-induced myopathy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  When you prescribe a statin to someone with thyroid dysfunction, you're stacking two mitochondrial toxins. The risk multiplies.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Some patients develop rhabdomyolysis—severe muscle breakdown that can cause kidney failure—simply because their thyroid wasn't optimized before starting a statin.
+                  When you combine them, you're stacking two mitochondrial toxins. The risk multiplies.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  If you already struggle to walk without pain, what happens when you can't walk at all?
+                  Some patients develop rhabdomyolysis—severe muscle breakdown causing kidney failure—simply because their thyroid wasn't optimized before starting a statin.
                 </p>
               </div>
             </div>
@@ -340,7 +322,7 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You already lose words mid-sentence. You walk into rooms and forget why you're there. You wonder if this is early dementia or just your thyroid.
+                  You already lose words mid-sentence. You wonder if this is early dementia or just your thyroid.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -348,15 +330,7 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Patients report "Total Global Amnesia" episodes lasting hours. Others describe becoming "non-functional zombies" who couldn't feed themselves until they stopped the drug.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">"Within a week of stopping, the brain fog lifted. I hadn't realized how bad I had felt for years."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"Couldn't think clearly. Felt like I was losing my mind."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -364,15 +338,11 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your brain uses 20% of your body's energy despite being only 2% of your body weight. When statins deplete CoQ10, your brain cells can't generate the power they need to function properly.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  For someone already battling thyroid-related cognitive symptoms, this isn't a "rare side effect." It's a predictable outcome of blocking the fuel your struggling brain desperately needs.
+                  Your brain uses 20% of your body's energy despite being 2% of your body weight. When statins deplete CoQ10, your brain cells can't generate the power they need.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  You need mental clarity to work, to drive, to care for your family. How much are you willing to sacrifice for a lower LDL number?
+                  For someone already battling thyroid-related cognitive symptoms, this isn't rare—it's predictable.
                 </p>
               </div>
             </div>
@@ -397,23 +367,23 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Wake up. Take levothyroxine on an empty stomach. Wait 30 minutes. No coffee. No food. You've been doing this for years.
+                  Wake up. Take levothyroxine on an empty stomach. Wait 30 minutes. No coffee. No food.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Now your doctor wants to add a statin to your morning routine.
+                  Now your doctor wants to add a statin.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Another horse-sized pill to swallow. Another medication to track. Another reason to dread mornings. 38% of adults struggle to swallow pills, and if you're already managing thyroid medication, adding another pill makes daily adherence nearly impossible.
+                  Another horse-sized pill. Another medication to track. Another reason to dread mornings.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You skip doses. Not because you "forgot." Because you couldn't face choking it down again.
+                  38% of adults struggle to swallow pills. If you're already managing thyroid medication, adding another pill makes adherence nearly impossible.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The bottle sits on your counter, a daily reminder that you're getting sicker, not better. That you're collecting diagnoses instead of healing. That the medical system sees you as a collection of numbers to manage, not a person trying to feel like yourself again.
+                  You skip doses. Not because you forgot. Because you couldn't face choking it down again.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
@@ -442,15 +412,11 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Modern medicine has fractured your body into disconnected systems.
+                  Your endocrinologist looks at TSH. If it's 3.8, you're fine. Your cardiologist looks at LDL. If it's 240, you need a statin.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your endocrinologist looks at TSH. If it's 3.8, you're fine. Your cardiologist looks at LDL. If it's 240, you need a statin. Nobody talks to each other. Nobody connects the dots.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Nobody tells you: "Your cholesterol is high because your thyroid isn't working properly."
+                  Nobody connects the dots.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -458,15 +424,15 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Then we invented the TSH test. We fell in love with the number. We forgot that symptoms matter. We forgot that cholesterol tells a story.
+                  Then we invented the TSH test. We fell in love with the number. We forgot that symptoms matter.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The historical connection—that high cholesterol was a thyroid symptom—wasn't disproven. It was just forgotten.
+                  The historical connection wasn't disproven. It was just forgotten.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The result: You get treated for a symptom instead of a cause. You get a statin that lowers cholesterol by forcing your liver to stop production. But it doesn't fix the real problem—your liver can't clear cholesterol because thyroid signaling is impaired, because conversion is blocked, because bile flow is stagnant.
+                  The result: You get a statin that lowers cholesterol by forcing your liver to stop production. But it doesn't fix the real problem—your liver can't clear cholesterol because thyroid signaling is impaired.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -474,7 +440,7 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Worse: The statin depletes the CoQ10 your thyroid-compromised mitochondria desperately need, making your fatigue worse, your brain fog thicker, your muscle pain unbearable.
+                  Worse: The statin depletes the CoQ10 your thyroid-compromised mitochondria desperately need.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
@@ -528,10 +494,6 @@ export default function Index() {
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">"LDL dropped 119 points from my peak. Turned out I didn't have genetic FH—just untreated hypothyroidism."</span>
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"Red yeast rice plus CoQ10 lowered my LDL from 148 to 55. Yes, in the U.S."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
