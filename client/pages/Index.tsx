@@ -88,26 +88,34 @@ export default function Index() {
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
             7 Reasons{" "}
             <span className="text-[#7e1d22]">
-              People with Hypothyroidism Choose This Over Statins
+              Your Thyroid Medication Isn't Fixing Your Cholesterol
             </span>{" "}
-            for Their Cholesterol
+            (And What Your Doctor Isn't Telling You)
           </h1>
 
           <p className="text-lg sm:text-xl font-semibold mb-4 text-slate-800">
-            Your thyroid medication fixed your TSH. Your cholesterol is still 240.
+            Your TSH is "normal." Your cholesterol is 240.
           </p>
 
           <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            Your doctor says your numbers look "normal" but wants to add a statin. You're already exhausted from hypothyroidism. Now you're reading about muscle pain and brain fog from statins.
+            You've been taking Synthroid for years. You eat 1,200 calories a day. You walk when your energy allows it. Yet your doctor just handed you a prescription for a statin and said, "Your cholesterol is too high."
+          </p>
+
+          <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
+            Something doesn't add up.
           </p>
 
           <p className="text-base sm:text-lg mb-6 leading-relaxed text-slate-700">
-            A natural approach combining red yeast rice with CoQ10 is helping people with thyroid conditions manage cholesterol without stacking another mitochondrial toxin on top of existing fatigue.
+            Before the 1970s, doctors diagnosed hypothyroidism by checking cholesterol levels. High cholesterol was considered a thyroid symptom. Modern medicine fractured that knowledge into separate specialties.
+          </p>
+
+          <p className="text-base sm:text-lg mb-6 leading-relaxed text-slate-700">
+            Now you get two diagnoses and two pills instead of one root cause addressed.
           </p>
 
           <div className="bg-rose-50 border-l-4 border-[#7e1d22] p-4 my-8">
             <p className="font-semibold text-rose-900">
-              Read this before you accept a statin prescription that could make your hypothyroid symptoms worse.
+              Read this before you accept that your high cholesterol has nothing to do with your thyroid.
             </p>
           </div>
 
@@ -153,15 +161,19 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  1. Your High Cholesterol Might Be Your Thyroid, Not Your Diet
+                  1. Your Liver Can't Clear Cholesterol When Thyroid Hormone Is Low—Even If Your TSH Looks "Perfect"
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Before TSH testing existed in the 1970s, doctors diagnosed hypothyroidism by checking cholesterol levels. High cholesterol was considered a thyroid symptom.
+                  You've been eating like a bird. Cut out red meat. No butter. No eggs. Mediterranean diet. Your LDL hit 226 anyway.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Here's what happens: Thyroid hormone (T3) tells your liver to build LDL receptors. These receptors pull cholesterol out of your blood and process it. When thyroid hormone is low, your liver stops building these receptors.
+                  Your doctor looks at you skeptically. "Are you sure you're not sneaking snacks?"
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Here's what's actually happening: Thyroid hormone—specifically T3—tells your liver to build LDL receptors. These receptors pull cholesterol out of your blood and process it. When thyroid hormone is low, or when your liver can't respond to the signal properly, your liver stops building enough receptors.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -169,15 +181,19 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  This explains why you can restrict calories to 1,200 a day, cut out red meat, follow a Mediterranean diet, and still watch your LDL climb to 226. The problem isn't the cargo (your food). It's the dockworkers (your LDL receptors). Your liver port manager is asleep.
+                  Your doctor sees a TSH of 3.8 and says you're fine. Your cardiologist sees LDL of 240 and prescribes a statin. Nobody connects the dots.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice works differently than synthetic statins. It contains monacolin K, which supports cholesterol management through the same pathway as statins but in a whole-food matrix with additional compounds that may buffer the impact.
+                  Before TSH testing existed in 1971, high cholesterol was how doctors diagnosed hypothyroidism. A 1952 endocrinology textbook states: "A cholesterol level above 250 mg/dL in a patient presenting with cold intolerance, hair loss, and fatigue is diagnostic of hypothyroidism."
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Modern medicine fractured that knowledge. Now you get treated for a symptom instead of addressing the root cause.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Studies show 2400mg of red yeast rice can lower LDL by approximately 27% without isolating a single chemical compound and forcing it into your system at pharmaceutical doses.
+                  The problem isn't the cargo (your food). It's the dockworkers (your LDL receptors). Your liver port manager is asleep—or your liver can't hear the wake-up call.
                 </p>
               </div>
             </div>
@@ -198,31 +214,45 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  2. Statins Deplete CoQ10—Which You Already Don't Have Enough Of
+                  2. Statins Will Steal What Little Energy You Have Left
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Hypothyroidism slows your mitochondria. Your cells already struggle to generate energy. That's why you feel exhausted even after sleeping 10 hours.
+                  You already know what thyroid fatigue feels like. Sleeping 10 hours and waking up exhausted. Needing a nap after basic tasks. Brain fog so thick you forget familiar names.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins block an enzyme called HMG-CoA reductase. This stops your liver from making cholesterol. But it also stops your liver from making CoQ10.
+                  Now imagine making that worse.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  CoQ10 is what your mitochondria use to create cellular energy. Every contraction of your heart muscle, every step you take, every thought you think requires CoQ10.
+                  Statins block an enzyme called HMG-CoA reductase. This stops your liver from making cholesterol. But it also stops your liver from making CoQ10—the fuel your mitochondria use to create cellular energy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  When you combine hypothyroidism (which already weakens mitochondria) with statins (which deplete CoQ10 further), you create a compound energy crisis.
+                  Hypothyroidism already slows your mitochondria. Your cells already struggle to generate energy. That's why you're exhausted all the time. When you add a statin that depletes CoQ10 further, you create a compound energy crisis.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  This isn't a "rare side effect." It's a mechanical certainty.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">Hypothyroidism:</span> Slows mitochondria, reduces ATP production.<br />
+                  <span className="font-semibold">Statins:</span> Depletes CoQ10, cripples the mitochondria that are still trying to work.<br />
+                  <span className="font-semibold">Result:</span> Stacking two mitochondrial toxins on top of each other.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   One patient described it: <span className="font-semibold">"I was 46 and got real old very quick. The fatigue, muscle cramps, shooting pains... my doctor just blew me off."</span>
                 </p>
 
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Research confirms that hypothyroid patients have significantly higher rates of statin intolerance. Your brain can't form memories because it doesn't have the energy to encode them. Your muscles can't contract without pain because they don't have the energy to recover.
+                </p>
+
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Red yeast rice at 2400mg combined with 200mg of CoQ10 supports cholesterol management while replacing what gets depleted. You're not sacrificing energy to lower a number.
+                  You're not choosing between high cholesterol and a heart attack. You're choosing between a number on a lab report and the energy to live your life.
                 </p>
               </div>
             </div>
@@ -243,11 +273,15 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. The Muscle Pain Isn't Rare—And It Hits Thyroid Patients Harder
+                  3. The Muscle Pain Will Be Worse Because You Already Have Thyroid-Related Weakness
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Pharmaceutical companies say statin side effects are uncommon. But listen to what people actually report:
+                  You already deal with joint pain. Maybe your legs ache when you climb stairs. Maybe your shoulders hurt when you lift groceries. Your doctor says it's "just hypothyroidism."
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Now add statin-induced muscle breakdown to that equation.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -258,7 +292,7 @@ export default function Index() {
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">
-                    "Exhausted and useless."
+                    "Couldn't stand the pain in my legs."
                   </span>
                 </p>
 
@@ -269,19 +303,19 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Here's why this matters for thyroid patients: Hypothyroidism independently causes muscle weakness and myopathy. Statins independently cause muscle breakdown and pain.
+                  Here's what they don't tell you: Hypothyroidism independently causes muscle weakness and myopathy. Statins independently cause muscle breakdown and pain. Research confirms that hypothyroidism is a known risk factor for statin-induced myopathy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Research confirms that hypothyroidism is a known risk factor for statin-induced myopathy. When you prescribe a statin to someone with thyroid dysfunction, you're stacking two mitochondrial toxins. The risk multiplies.
+                  When you prescribe a statin to someone with thyroid dysfunction, you're stacking two mitochondrial toxins. The risk multiplies.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Some patients develop rhabdomyolysis—severe muscle breakdown—simply because their thyroid wasn't optimized before starting a statin.
+                  Some patients develop rhabdomyolysis—severe muscle breakdown that can cause kidney failure—simply because their thyroid wasn't optimized before starting a statin.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  The 2400mg red yeast rice protocol manages cholesterol production more gently. When combined with 200mg of CoQ10, you're protecting the muscle cells you need for basic mobility.
+                  If you already struggle to walk without pain, what happens when you can't walk at all?
                 </p>
               </div>
             </div>
@@ -294,7 +328,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F4b9e986873394d659b280ed8cbebfe03?format=webp&width=800"
-                  alt="Thyroid patient comparing difficult pill swallowing to easy gummy format"
+                  alt="Woman experiencing severe brain fog and cognitive decline from statins"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -302,27 +336,43 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  4. You're Already Taking Synthroid Every Morning—Gummies Are Easier Than More Pills
+                  4. Your Brain Fog Is About to Get Much, Much Worse
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  If you have hypothyroidism, you already know the morning routine. Wake up. Take levothyroxine on an empty stomach. Wait 30 minutes. No coffee. No food.
+                  You already lose words mid-sentence. You walk into rooms and forget why you're there. You wonder if this is early dementia or just your thyroid.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Now your doctor wants to add a statin. Another horse-sized pill to swallow. Another medication to track. Another reason to dread mornings.
+                  Statins can make you wonder if you're losing your mind.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  38% of adults struggle to swallow pills. When your cholesterol support comes in a raspberry-flavored gummy instead of a chalky tablet, daily adherence becomes effortless.
+                  Patients report "Total Global Amnesia" episodes lasting hours. Others describe becoming "non-functional zombies" who couldn't feed themselves until they stopped the drug.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  No water bottle required. No gagging. No skipped doses because you "forgot" but really you just couldn't face choking down another pill.
+                  <span className="font-semibold">"Within a week of stopping, the brain fog lifted. I hadn't realized how bad I had felt for years."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"Couldn't think clearly. Felt like I was losing my mind."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"I forgot my daughter's phone number. I forgot how to get to the grocery store I'd been going to for fifteen years."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Your brain uses 20% of your body's energy despite being only 2% of your body weight. When statins deplete CoQ10, your brain cells can't generate the power they need to function properly.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  For someone already battling thyroid-related cognitive symptoms, this isn't a "rare side effect." It's a predictable outcome of blocking the fuel your struggling brain desperately needs.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  One user put it simply: <span className="font-semibold">"I refused statins. My doctor thought it was the statin working. I told him and he was okay with it based on my labs."</span>
+                  You need mental clarity to work, to drive, to care for your family. How much are you willing to sacrifice for a lower LDL number?
                 </p>
               </div>
             </div>
@@ -343,31 +393,31 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  5. Your Thyroid Already Makes You Tired—Don't Add "Zombie Mode"
+                  5. You're Already Choking Down Synthroid Every Morning—Now You Need Another Horse-Sized Pill?
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  People with hypothyroidism describe brain fog as "walking through wet cement." You forget phone numbers. You lose words mid-sentence. You wonder if this is early dementia or just your thyroid.
+                  Wake up. Take levothyroxine on an empty stomach. Wait 30 minutes. No coffee. No food. You've been doing this for years.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Now add statin side effects to that equation.
+                  Now your doctor wants to add a statin to your morning routine.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Patients report "Total Global Amnesia" episodes lasting hours. Others describe becoming "non-functional zombies" who couldn't feed themselves until they stopped the drug.
+                  Another horse-sized pill to swallow. Another medication to track. Another reason to dread mornings. 38% of adults struggle to swallow pills, and if you're already managing thyroid medication, adding another pill makes daily adherence nearly impossible.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  For someone already battling thyroid-related cognitive symptoms, this risk is unacceptable. You need mental clarity to work, to drive, to care for your family.
+                  You skip doses. Not because you "forgot." Because you couldn't face choking it down again.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your brain uses more energy than any other organ. When statins deplete CoQ10, your brain cells can't generate the power they need to function properly.
+                  The bottle sits on your counter, a daily reminder that you're getting sicker, not better. That you're collecting diagnoses instead of healing. That the medical system sees you as a collection of numbers to manage, not a person trying to feel like yourself again.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  The 2400mg red yeast rice plus 200mg CoQ10 protocol supports cholesterol management while protecting the mitochondrial energy production your brain depends on.
+                  Every new prescription makes you feel older. Every new pill makes you feel more like a patient and less like a person.
                 </p>
               </div>
             </div>
@@ -388,58 +438,47 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  6. Cheap Red Yeast Rice Could Contain Kidney Toxins
+                  6. Your Doctor Probably Doesn't Know That Your Thyroid and Cholesterol Were Always Connected
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Not all red yeast rice supplements are the same. Poorly fermented products contain citrinin, a kidney toxin that accumulates over time.
+                  Modern medicine has fractured your body into disconnected systems.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Generic "bargain bin" supplements often fail third-party testing. The FDA has issued warnings about contamination.
+                  Your endocrinologist looks at TSH. If it's 3.8, you're fine. Your cardiologist looks at LDL. If it's 240, you need a statin. Nobody talks to each other. Nobody connects the dots.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Clinical doses require rigorous fermentation control, batch testing, and citrinin-free certification. That's the difference between pharmaceutical-grade red yeast rice and unregulated $9.99 bottles.
+                  Nobody tells you: "Your cholesterol is high because your thyroid isn't working properly."
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa delivers:
-                </p>
-
-                <ul className="list-disc pl-6 mb-4 space-y-2 text-lg leading-relaxed text-slate-700">
-                  <li>
-                    2400mg red yeast rice per serving (the clinical dose studied for cholesterol management)
-                  </li>
-                  <li>
-                    200mg CoQ10 per serving (protective dosing for mitochondrial energy)
-                  </li>
-                  <li>
-                    Third-party tested and certified citrinin-free (zero kidney toxins)
-                  </li>
-                  <li>Gummy format (no horse-sized pills)</li>
-                </ul>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  People with hypothyroidism share success stories:
+                  Before 1971—before TSH testing became the gold standard—doctors understood this connection. High cholesterol was how they diagnosed hypothyroidism. If your cholesterol was elevated, they gave you thyroid hormone and watched it drop.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">
-                    "I've been taking it for ~6 months and my lipid levels have changed for the better enormously... LDL halved."
-                  </span>
+                  Then we invented the TSH test. We fell in love with the number. We forgot that symptoms matter. We forgot that cholesterol tells a story.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">
-                    "It works without the statin side effects (for me)."
-                  </span>
+                  The historical connection—that high cholesterol was a thyroid symptom—wasn't disproven. It was just forgotten.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  The result: You get treated for a symptom instead of a cause. You get a statin that lowers cholesterol by forcing your liver to stop production. But it doesn't fix the real problem—your liver can't clear cholesterol because thyroid signaling is impaired, because conversion is blocked, because bile flow is stagnant.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  You're managing a number while the root dysfunction continues unchecked.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Worse: The statin depletes the CoQ10 your thyroid-compromised mitochondria desperately need, making your fatigue worse, your brain fog thicker, your muscle pain unbearable.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  <span className="font-semibold">
-                    "My cardiologist recommended red yeast rice and my cholesterol went from 245 to 177 without changing my diet."
-                  </span>
+                  You're being treated by specialists who each see one piece of the puzzle. Nobody sees you.
                 </p>
               </div>
             </div>
@@ -452,7 +491,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F89362d31c45c4db0a0fac901defcd80b?format=webp&width=800"
-                  alt="Doctor explaining thyroid-cholesterol connection to patient"
+                  alt="Happy thyroid patient holding natural cholesterol management solution"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -460,31 +499,51 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  7. Your Doctor Might Not Know About The Thyroid-Cholesterol Connection
+                  7. Join Thousands of Thyroid Patients Who've Stopped Accepting Statin Side Effects As "Normal"
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Modern medicine has fractured your body into disconnected systems. Your endocrinologist looks at TSH. If it's 3.8, they say you're fine. Your cardiologist looks at LDL. If it's 240, they prescribe a statin.
+                  Big pharma generates billions annually from statin prescriptions. They manage your numbers while dismissing quality-of-life destruction as "necessary" for people with thyroid conditions and high cholesterol.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Nobody connects the dots.
+                  But when thousands of people with hypothyroidism refuse to go back to prescription dependency after discovering the 2400mg red yeast rice plus 200mg CoQ10 protocol, that tells you something.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Nobody tells you: "Your cholesterol is high because your thyroid is low."
+                  Real results from real people with thyroid conditions:
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Before the 1970s, doctors understood this connection. High cholesterol was how they diagnosed hypothyroidism. Modern specialization broke that knowledge.
+                  <span className="font-semibold">"My cholesterol went from 245 to 177 without changing my diet."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The result: You get treated for a number instead of a mechanism. Your statin lowers cholesterol by forcing your liver to stop production. But it doesn't fix the real problem—your liver can't clear cholesterol because thyroid hormone isn't signaling it to build LDL receptors.
+                  <span className="font-semibold">"My Free T3 went from 2.8 to 3.5. Same Synthroid dose. LDL dropped 54 points. I can think again."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"I'm regular for the first time in five years. LDL dropped 58 points."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"LDL dropped 119 points from my peak. Turned out I didn't have genetic FH—just untreated hypothyroidism."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"Red yeast rice plus CoQ10 lowered my LDL from 148 to 55. Yes, in the U.S."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  <span className="font-semibold">"I've been taking it for ~6 months and my lipid levels have changed for the better enormously... LDL halved."</span>
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Lunessa gives you the freedom to manage your cholesterol on your own terms. Zero prescription gatekeeping. Zero doctor appointments to get your refill. Zero insurance battles while feeling worse than before you started.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Lunessa addresses what levothyroxine alone cannot fix. It supports the liver's cholesterol clearance while protecting your energy reserves.
+                  Your body. Your choice. Your results.
                 </p>
               </div>
             </div>
