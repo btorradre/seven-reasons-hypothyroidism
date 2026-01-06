@@ -379,7 +379,7 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F6d1dd042de974beb94205f451a6b0524?format=webp&width=800"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1c96be8b93924f4d854da6483524fa7f?format=webp&width=800"
                   alt="Warning symbol showing citrinin contamination risk in cheap red yeast rice"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
