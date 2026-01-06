@@ -571,6 +571,16 @@ export default function Index() {
           </div>
         </div>
       </footer>
+
+      {/* Sticky CTA Button */}
+      <a
+        href="https://shoplunessa.store/products/lunessa"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-0 left-0 right-0 z-50 bg-[#22C55E] hover:bg-[#16A34A] text-white py-4 px-4 text-center font-bold text-sm sm:text-base uppercase tracking-wide transition-colors shadow-lg"
+      >
+        APPLY DISCOUNT AND CHECK AVAILABILITY
+      </a>
     </div>
   );
 }
