@@ -152,8 +152,8 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1bdf192b9fbb4154b6f6e6f139c51d29?format=webp&width=800"
-                  alt="Cholesterol management pathways comparison for hypothyroid patients: statins single pathway vs Lunessa three-pathway approach"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8f35c435e1db4ce2baa325795922cd08?format=webp&width=800"
+                  alt="Thyroid hormone and cholesterol clearance: comparison of normal thyroid hormone with functional LDL receptors versus low thyroid hormone with cholesterol accumulation"
                   className="w-full aspect-auto object-contain rounded-lg shadow-lg"
                 />
               </div>
