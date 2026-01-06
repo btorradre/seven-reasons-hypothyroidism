@@ -98,7 +98,10 @@ export default function Index() {
           </p>
 
           <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            You've been taking Synthroid for years. You eat 1,200 calories a day. You walk when your energy allows it. Yet your doctor just handed you a prescription for a statin and said, "Your cholesterol is too high."
+            You've been taking Synthroid for years. You eat 1,200 calories a
+            day. You walk when your energy allows it. Yet your doctor just
+            handed you a prescription for a statin and said, "Your cholesterol
+            is too high."
           </p>
 
           <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
@@ -106,16 +109,21 @@ export default function Index() {
           </p>
 
           <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            Before the 1970s, doctors diagnosed hypothyroidism by checking cholesterol levels. High cholesterol was considered a thyroid symptom. Modern medicine fractured that knowledge into separate specialties.
+            Before the 1970s, doctors diagnosed hypothyroidism by checking
+            cholesterol levels. High cholesterol was considered a thyroid
+            symptom. Modern medicine fractured that knowledge into separate
+            specialties.
           </p>
 
           <p className="text-base sm:text-lg mb-6 leading-relaxed text-slate-700">
-            Now you get two diagnoses and two pills instead of one root cause addressed.
+            Now you get two diagnoses and two pills instead of one root cause
+            addressed.
           </p>
 
           <div className="bg-rose-50 border-l-4 border-[#7e1d22] p-4 my-8">
             <p className="font-semibold text-rose-900">
-              Read this before you accept that your high cholesterol has nothing to do with your thyroid.
+              Read this before you accept that your high cholesterol has nothing
+              to do with your thyroid.
             </p>
           </div>
 
@@ -161,19 +169,25 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  1. Your Liver Can't Clear Cholesterol When Thyroid Hormone Is Low—Even If Your TSH Looks "Perfect"
+                  1. Your Liver Can't Clear Cholesterol When Thyroid Hormone Is
+                  Low—Even If Your TSH Looks "Perfect"
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You've been eating like a bird. Cut out red meat. No butter. No eggs. Your LDL hit 226 anyway.
+                  You've been eating like a bird. Cut out red meat. No butter.
+                  No eggs. Your LDL hit 226 anyway.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your doctor looks at you skeptically. "Are you sure you're not sneaking snacks?"
+                  Your doctor looks at you skeptically. "Are you sure you're not
+                  sneaking snacks?"
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Here's what's actually happening: Thyroid hormone (T3) tells your liver to build LDL receptors. These receptors pull cholesterol out of your blood and process it. When thyroid hormone is low, your liver stops building enough receptors.
+                  Here's what's actually happening: Thyroid hormone (T3) tells
+                  your liver to build LDL receptors. These receptors pull
+                  cholesterol out of your blood and process it. When thyroid
+                  hormone is low, your liver stops building enough receptors.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -181,15 +195,21 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Before 1971, high cholesterol was how doctors diagnosed hypothyroidism. A 1952 textbook states: "A cholesterol level above 250 mg/dL in a patient presenting with cold intolerance, hair loss, and fatigue is diagnostic of hypothyroidism."
+                  Before 1971, high cholesterol was how doctors diagnosed
+                  hypothyroidism. A 1952 textbook states: "A cholesterol level
+                  above 250 mg/dL in a patient presenting with cold intolerance,
+                  hair loss, and fatigue is diagnostic of hypothyroidism."
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Modern medicine fractured that knowledge. Your endocrinologist looks at TSH. Your cardiologist looks at LDL. Nobody connects the dots.
+                  Modern medicine fractured that knowledge. Your endocrinologist
+                  looks at TSH. Your cardiologist looks at LDL. Nobody connects
+                  the dots.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  The problem isn't the cargo (your food). It's the dockworkers (your LDL receptors). Your liver port manager is asleep.
+                  The problem isn't the cargo (your food). It's the dockworkers
+                  (your LDL receptors). Your liver port manager is asleep.
                 </p>
               </div>
             </div>
@@ -214,7 +234,8 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You already know thyroid fatigue. Sleeping 10 hours and waking up exhausted. Brain fog so thick you forget familiar names.
+                  You already know thyroid fatigue. Sleeping 10 hours and waking
+                  up exhausted. Brain fog so thick you forget familiar names.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -222,11 +243,14 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins block cholesterol production. But they also block CoQ10 production—the fuel your mitochondria use to create cellular energy.
+                  Statins block cholesterol production. But they also block
+                  CoQ10 production—the fuel your mitochondria use to create
+                  cellular energy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Hypothyroidism already slows your mitochondria. Adding a statin creates a compound energy crisis.
+                  Hypothyroidism already slows your mitochondria. Adding a
+                  statin creates a compound energy crisis.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -234,17 +258,27 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">Hypothyroidism:</span> Slows mitochondria, reduces ATP production.<br />
-                  <span className="font-semibold">Statins:</span> Depletes CoQ10, cripples struggling mitochondria.<br />
-                  <span className="font-semibold">Result:</span> Stacking two mitochondrial toxins.
+                  <span className="font-semibold">Hypothyroidism:</span> Slows
+                  mitochondria, reduces ATP production.
+                  <br />
+                  <span className="font-semibold">Statins:</span> Depletes
+                  CoQ10, cripples struggling mitochondria.
+                  <br />
+                  <span className="font-semibold">Result:</span> Stacking two
+                  mitochondrial toxins.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  One patient: <span className="font-semibold">"I was 46 and got real old very quick. The fatigue, muscle cramps, shooting pains... my doctor just blew me off."</span>
+                  One patient:{" "}
+                  <span className="font-semibold">
+                    "I was 46 and got real old very quick. The fatigue, muscle
+                    cramps, shooting pains... my doctor just blew me off."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Your brain can't form memories without energy. Your muscles can't recover without fuel.
+                  Your brain can't form memories without energy. Your muscles
+                  can't recover without fuel.
                 </p>
               </div>
             </div>
@@ -265,11 +299,13 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. The Muscle Pain Will Be Worse Because You Already Have Thyroid-Related Weakness
+                  3. The Muscle Pain Will Be Worse Because You Already Have
+                  Thyroid-Related Weakness
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You already deal with joint pain. Legs ache climbing stairs. Shoulders hurt lifting groceries.
+                  You already deal with joint pain. Legs ache climbing stairs.
+                  Shoulders hurt lifting groceries.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -289,15 +325,21 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Hypothyroidism independently causes muscle weakness. Statins independently cause muscle breakdown. Research confirms hypothyroidism is a known risk factor for statin-induced myopathy.
+                  Hypothyroidism independently causes muscle weakness. Statins
+                  independently cause muscle breakdown. Research confirms
+                  hypothyroidism is a known risk factor for statin-induced
+                  myopathy.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  When you combine them, you're stacking two mitochondrial toxins. The risk multiplies.
+                  When you combine them, you're stacking two mitochondrial
+                  toxins. The risk multiplies.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Some patients develop rhabdomyolysis—severe muscle breakdown causing kidney failure—simply because their thyroid wasn't optimized before starting a statin.
+                  Some patients develop rhabdomyolysis—severe muscle breakdown
+                  causing kidney failure—simply because their thyroid wasn't
+                  optimized before starting a statin.
                 </p>
               </div>
             </div>
@@ -322,7 +364,8 @@ export default function Index() {
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You already lose words mid-sentence. You wonder if this is early dementia or just your thyroid.
+                  You already lose words mid-sentence. You wonder if this is
+                  early dementia or just your thyroid.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -330,19 +373,28 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"Within a week of stopping, the brain fog lifted. I hadn't realized how bad I had felt for years."</span>
+                  <span className="font-semibold">
+                    "Within a week of stopping, the brain fog lifted. I hadn't
+                    realized how bad I had felt for years."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"I forgot my daughter's phone number. I forgot how to get to the grocery store I'd been going to for fifteen years."</span>
+                  <span className="font-semibold">
+                    "I forgot my daughter's phone number. I forgot how to get to
+                    the grocery store I'd been going to for fifteen years."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your brain uses 20% of your body's energy despite being 2% of your body weight. When statins deplete CoQ10, your brain cells can't generate the power they need.
+                  Your brain uses 20% of your body's energy despite being 2% of
+                  your body weight. When statins deplete CoQ10, your brain cells
+                  can't generate the power they need.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  For someone already battling thyroid-related cognitive symptoms, this isn't rare—it's predictable.
+                  For someone already battling thyroid-related cognitive
+                  symptoms, this isn't rare—it's predictable.
                 </p>
               </div>
             </div>
@@ -363,11 +415,13 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  5. You're Already Choking Down Synthroid Every Morning—Now You Need Another Horse-Sized Pill?
+                  5. You're Already Choking Down Synthroid Every Morning—Now You
+                  Need Another Horse-Sized Pill?
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Wake up. Take levothyroxine on an empty stomach. Wait 30 minutes. No coffee. No food.
+                  Wake up. Take levothyroxine on an empty stomach. Wait 30
+                  minutes. No coffee. No food.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -375,19 +429,24 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Another horse-sized pill. Another medication to track. Another reason to dread mornings.
+                  Another horse-sized pill. Another medication to track. Another
+                  reason to dread mornings.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  38% of adults struggle to swallow pills. If you're already managing thyroid medication, adding another pill makes adherence nearly impossible.
+                  38% of adults struggle to swallow pills. If you're already
+                  managing thyroid medication, adding another pill makes
+                  adherence nearly impossible.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You skip doses. Not because you forgot. Because you couldn't face choking it down again.
+                  You skip doses. Not because you forgot. Because you couldn't
+                  face choking it down again.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Every new prescription makes you feel older. Every new pill makes you feel more like a patient and less like a person.
+                  Every new prescription makes you feel older. Every new pill
+                  makes you feel more like a patient and less like a person.
                 </p>
               </div>
             </div>
@@ -408,11 +467,14 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  6. Your Doctor Probably Doesn't Know That Your Thyroid and Cholesterol Were Always Connected
+                  6. Your Doctor Probably Doesn't Know That Your Thyroid and
+                  Cholesterol Were Always Connected
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your endocrinologist looks at TSH. If it's 3.8, you're fine. Your cardiologist looks at LDL. If it's 240, you need a statin.
+                  Your endocrinologist looks at TSH. If it's 3.8, you're fine.
+                  Your cardiologist looks at LDL. If it's 240, you need a
+                  statin.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -420,31 +482,42 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Before 1971—before TSH testing became the gold standard—doctors understood this connection. High cholesterol was how they diagnosed hypothyroidism. If your cholesterol was elevated, they gave you thyroid hormone and watched it drop.
+                  Before 1971—before TSH testing became the gold
+                  standard—doctors understood this connection. High cholesterol
+                  was how they diagnosed hypothyroidism. If your cholesterol was
+                  elevated, they gave you thyroid hormone and watched it drop.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Then we invented the TSH test. We fell in love with the number. We forgot that symptoms matter.
+                  Then we invented the TSH test. We fell in love with the
+                  number. We forgot that symptoms matter.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The historical connection wasn't disproven. It was just forgotten.
+                  The historical connection wasn't disproven. It was just
+                  forgotten.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The result: You get a statin that lowers cholesterol by forcing your liver to stop production. But it doesn't fix the real problem—your liver can't clear cholesterol because thyroid signaling is impaired.
+                  The result: You get a statin that lowers cholesterol by
+                  forcing your liver to stop production. But it doesn't fix the
+                  real problem—your liver can't clear cholesterol because
+                  thyroid signaling is impaired.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  You're managing a number while the root dysfunction continues unchecked.
+                  You're managing a number while the root dysfunction continues
+                  unchecked.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Worse: The statin depletes the CoQ10 your thyroid-compromised mitochondria desperately need.
+                  Worse: The statin depletes the CoQ10 your thyroid-compromised
+                  mitochondria desperately need.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  You're being treated by specialists who each see one piece of the puzzle. Nobody sees you.
+                  You're being treated by specialists who each see one piece of
+                  the puzzle. Nobody sees you.
                 </p>
               </div>
             </div>
@@ -465,15 +538,22 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  7. Join Thousands of Thyroid Patients Who've Stopped Accepting Statin Side Effects As "Normal"
+                  7. Join Thousands of Thyroid Patients Who've Stopped Accepting
+                  Statin Side Effects As "Normal"
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Big pharma generates billions annually from statin prescriptions. They manage your numbers while dismissing quality-of-life destruction as "necessary" for people with thyroid conditions and high cholesterol.
+                  Big pharma generates billions annually from statin
+                  prescriptions. They manage your numbers while dismissing
+                  quality-of-life destruction as "necessary" for people with
+                  thyroid conditions and high cholesterol.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  But when thousands of people with hypothyroidism refuse to go back to prescription dependency after discovering the 2400mg red yeast rice plus 200mg CoQ10 protocol, that tells you something.
+                  But when thousands of people with hypothyroidism refuse to go
+                  back to prescription dependency after discovering the 2400mg
+                  red yeast rice plus 200mg CoQ10 protocol, that tells you
+                  something.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
@@ -481,27 +561,45 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"My cholesterol went from 245 to 177 without changing my diet."</span>
+                  <span className="font-semibold">
+                    "My cholesterol went from 245 to 177 without changing my
+                    diet."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"My Free T3 went from 2.8 to 3.5. Same Synthroid dose. LDL dropped 54 points. I can think again."</span>
+                  <span className="font-semibold">
+                    "My Free T3 went from 2.8 to 3.5. Same Synthroid dose. LDL
+                    dropped 54 points. I can think again."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"I'm regular for the first time in five years. LDL dropped 58 points."</span>
+                  <span className="font-semibold">
+                    "I'm regular for the first time in five years. LDL dropped
+                    58 points."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"LDL dropped 119 points from my peak. Turned out I didn't have genetic FH—just untreated hypothyroidism."</span>
+                  <span className="font-semibold">
+                    "LDL dropped 119 points from my peak. Turned out I didn't
+                    have genetic FH—just untreated hypothyroidism."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">"I've been taking it for ~6 months and my lipid levels have changed for the better enormously... LDL halved."</span>
+                  <span className="font-semibold">
+                    "I've been taking it for ~6 months and my lipid levels have
+                    changed for the better enormously... LDL halved."
+                  </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa gives you the freedom to manage your cholesterol on your own terms. Zero prescription gatekeeping. Zero doctor appointments to get your refill. Zero insurance battles while feeling worse than before you started.
+                  Lunessa gives you the freedom to manage your cholesterol on
+                  your own terms. Zero prescription gatekeeping. Zero doctor
+                  appointments to get your refill. Zero insurance battles while
+                  feeling worse than before you started.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
@@ -519,7 +617,9 @@ export default function Index() {
               </h2>
 
               <p className="text-lg leading-relaxed mb-6 text-slate-700">
-                Clinical-dose red yeast rice (2400mg) + protective CoQ10 (200mg) in gummy form. Third-party tested. Citrinin-free. Designed for people managing both thyroid conditions and cholesterol.
+                Clinical-dose red yeast rice (2400mg) + protective CoQ10 (200mg)
+                in gummy form. Third-party tested. Citrinin-free. Designed for
+                people managing both thyroid conditions and cholesterol.
               </p>
 
               <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
