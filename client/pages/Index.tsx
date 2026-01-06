@@ -309,7 +309,7 @@ export default function Index() {
               {/* Visual on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F4b9e986873394d659b280ed8cbebfe03?format=webp&width=800"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F708f7ca1ef434ca3a3d77b6a22a79a23?format=webp&width=800"
                   alt="Woman experiencing severe brain fog and cognitive decline from statins"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
