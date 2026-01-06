@@ -144,8 +144,8 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F845fa50bcaa94915a664c3013b864c70?format=webp&width=800"
-                  alt="Mitochondrial cell showing cellular energy production and CoQ10 function"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F68e5766aad614a8ca88a1ec07499f175?format=webp&width=800"
+                  alt="HMG-CoA Reductase Pathway showing statin blockage vs red yeast rice modulation"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
