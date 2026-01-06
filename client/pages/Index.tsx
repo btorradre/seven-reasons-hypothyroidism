@@ -144,9 +144,9 @@ export default function Index() {
               {/* Image on the left */}
               <div>
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F68e5766aad614a8ca88a1ec07499f175?format=webp&width=800"
-                  alt="Thyroid hormone signaling liver LDL receptors for cholesterol clearance"
-                  className="w-full aspect-square object-cover rounded-lg shadow-lg"
+                  src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1bdf192b9fbb4154b6f6e6f139c51d29?format=webp&width=800"
+                  alt="Cholesterol management pathways comparison for hypothyroid patients: statins single pathway vs Lunessa three-pathway approach"
+                  className="w-full aspect-auto object-contain rounded-lg shadow-lg"
                 />
               </div>
 
