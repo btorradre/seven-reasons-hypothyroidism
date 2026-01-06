@@ -533,7 +533,7 @@ export default function Index() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-slate-900 text-white py-12 px-4 mt-20">
+      <footer className="bg-slate-900 text-white py-12 px-4 mt-20 mb-16 sm:mb-14">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-8">
             <p className="text-sm mb-4">
