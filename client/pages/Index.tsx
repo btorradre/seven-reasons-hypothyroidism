@@ -88,32 +88,26 @@ export default function Index() {
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
             7 Reasons{" "}
             <span className="text-[#7e1d22]">
-              People with FH Choose This Over Statins
+              People with Hypothyroidism Choose This Over Statins
             </span>{" "}
-            for Their Genetic Cholesterol
+            for Their Cholesterol
           </h1>
 
           <p className="text-lg sm:text-xl font-semibold mb-4 text-slate-800">
-            Statins are stealing your life while "managing" your numbers.
+            Your thyroid medication fixed your TSH. Your cholesterol is still 240.
           </p>
 
           <p className="text-base sm:text-lg mb-4 leading-relaxed text-slate-700">
-            7 out of 10 statin users with familial hypercholesterolemia
-            experience debilitating muscle pain, brain fog, or fatigue. They
-            describe it as "feeling like I have the flu all the time" or
-            "exhausted and useless."
+            Your doctor says your numbers look "normal" but wants to add a statin. You're already exhausted from hypothyroidism. Now you're reading about muscle pain and brain fog from statins.
           </p>
 
           <p className="text-base sm:text-lg mb-6 leading-relaxed text-slate-700">
-            A natural approach combining red yeast rice with CoQ10 is helping
-            people break free from statin dependency. Real testimonials report
-            LDL drops from 245 to 177 without dietary changes.
+            A natural approach combining red yeast rice with CoQ10 is helping people with thyroid conditions manage cholesterol without stacking another mitochondrial toxin on top of existing fatigue.
           </p>
 
           <div className="bg-rose-50 border-l-4 border-[#7e1d22] p-4 my-8">
             <p className="font-semibold text-rose-900">
-              Read this before you accept another statin prescription that's
-              destroying your quality of life.
+              Read this before you accept a statin prescription that could make your hypothyroid symptoms worse.
             </p>
           </div>
 
@@ -151,7 +145,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F68e5766aad614a8ca88a1ec07499f175?format=webp&width=800"
-                  alt="HMG-CoA Reductase Pathway showing statin blockage vs red yeast rice modulation"
+                  alt="Thyroid hormone signaling liver LDL receptors for cholesterol clearance"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -159,39 +153,31 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  1. Statins Block Cholesterol—But They Also Block Something You
-                  Need
+                  1. Your High Cholesterol Might Be Your Thyroid, Not Your Diet
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statins work by blocking an enzyme called HMG-CoA reductase.
-                  That stops your liver from making cholesterol.
+                  Before TSH testing existed in the 1970s, doctors diagnosed hypothyroidism by checking cholesterol levels. High cholesterol was considered a thyroid symptom.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  But here's what they don't tell you: that same pathway also
-                  makes CoQ10. CoQ10 is what your cells use to create energy.
-                  Every cell in your body needs it.
+                  Here's what happens: Thyroid hormone (T3) tells your liver to build LDL receptors. These receptors pull cholesterol out of your blood and process it. When thyroid hormone is low, your liver stops building these receptors.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  So when you block cholesterol production, you're also blocking
-                  CoQ10 production. That's why you feel exhausted. That's why
-                  climbing stairs feels impossible. Your cells literally can't
-                  generate enough energy.
+                  Result: Cholesterol piles up in your bloodstream no matter how clean you eat.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice contains monacolin K—a natural compound that
-                  works on the same pathway. But at lower, gentler doses. And
-                  when you combine 2400mg of red yeast rice with 200mg of CoQ10,
-                  you're replacing what gets depleted.
+                  This explains why you can restrict calories to 1,200 a day, cut out red meat, follow a Mediterranean diet, and still watch your LDL climb to 226. The problem isn't the cargo (your food). It's the dockworkers (your LDL receptors). Your liver port manager is asleep.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Red yeast rice works differently than synthetic statins. It contains monacolin K, which supports cholesterol management through the same pathway as statins but in a whole-food matrix with additional compounds that may buffer the impact.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Clinical studies show this combination—2400mg red yeast rice
-                  plus 200mg CoQ10—supports cardiovascular health without
-                  stripping your cells of their energy source.
+                  Studies show 2400mg of red yeast rice can lower LDL by approximately 27% without isolating a single chemical compound and forcing it into your system at pharmaceutical doses.
                 </p>
               </div>
             </div>
@@ -204,7 +190,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F94077c13f4014f35a4f09d56f9d2c0c8?format=webp&width=800"
-                  alt="Woman experiencing brain fog and exhaustion while working at desk"
+                  alt="Woman exhausted from hypothyroidism and statin-depleted CoQ10 levels"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -212,49 +198,31 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  2. Your Brain Fog Isn't "Just Getting Older"—It's CoQ10
-                  Depletion
+                  2. Statins Deplete CoQ10—Which You Already Don't Have Enough Of
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Statin users describe terrifying cognitive effects:
+                  Hypothyroidism slows your mitochondria. Your cells already struggle to generate energy. That's why you feel exhausted even after sleeping 10 hours.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">
-                    "Within a week of stopping, the brain fog lifted. I hadn't
-                    realized how bad I had felt for years."
-                  </span>
+                  Statins block an enzyme called HMG-CoA reductase. This stops your liver from making cholesterol. But it also stops your liver from making CoQ10.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">
-                    "Couldn't think clearly."
-                  </span>
+                  CoQ10 is what your mitochondria use to create cellular energy. Every contraction of your heart muscle, every step you take, every thought you think requires CoQ10.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">
-                    "Felt like I was losing my mind."
-                  </span>
+                  When you combine hypothyroidism (which already weakens mitochondria) with statins (which deplete CoQ10 further), you create a compound energy crisis.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your brain uses more energy than any other organ. When statins
-                  deplete your CoQ10 stores, your brain cells can't generate the
-                  power they need to function properly.
-                </p>
-
-                <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Red yeast rice works differently. It modulates cholesterol
-                  production more gently. And when you add 200mg of CoQ10 per
-                  serving, you're protecting the mitochondrial energy production
-                  your brain depends on.
+                  One patient described it: <span className="font-semibold">"I was 46 and got real old very quick. The fatigue, muscle cramps, shooting pains... my doctor just blew me off."</span>
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  That's mental clarity without the fog. Memory without the
-                  gaps. The person you used to be before statins.
+                  Red yeast rice at 2400mg combined with 200mg of CoQ10 supports cholesterol management while replacing what gets depleted. You're not sacrificing energy to lower a number.
                 </p>
               </div>
             </div>
@@ -267,7 +235,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F81b591b35bbf4482bfe286af1f1b3018?format=webp&width=800"
-                  alt="Before and after: Woman struggling with stairs vs easily carrying groceries"
+                  alt="Thyroid patient struggling with severe muscle pain from statins"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -275,24 +243,22 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  3. The Muscle Pain Isn't "Rare"—And It's Not In Your Head
+                  3. The Muscle Pain Isn't Rare—And It Hits Thyroid Patients Harder
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Pharmaceutical companies dismissed statin side effects for
-                  decades. But listen to what real users say:
+                  Pharmaceutical companies say statin side effects are uncommon. But listen to what people actually report:
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">
-                    "Muscle pain so intense... spasms so bad in low back, legs
-                    and hip... put me in ER."
+                    "Muscle pain so intense... spasms so bad in low back, legs and hip... put me in ER."
                   </span>
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">
-                    "I was a different person, exhausted and useless."
+                    "Exhausted and useless."
                   </span>
                 </p>
 
@@ -303,21 +269,19 @@ export default function Index() {
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  This isn't mysterious. It's basic biology.
+                  Here's why this matters for thyroid patients: Hypothyroidism independently causes muscle weakness and myopathy. Statins independently cause muscle breakdown and pain.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Your muscle cells—especially your heart muscle—are packed with
-                  mitochondria. Mitochondria burn CoQ10 to generate movement.
-                  When statins block CoQ10 production, you create an energy
-                  crisis at the cellular level.
+                  Research confirms that hypothyroidism is a known risk factor for statin-induced myopathy. When you prescribe a statin to someone with thyroid dysfunction, you're stacking two mitochondrial toxins. The risk multiplies.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Some patients develop rhabdomyolysis—severe muscle breakdown—simply because their thyroid wasn't optimized before starting a statin.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  The 2400mg red yeast rice protocol manages cholesterol
-                  production while 200mg of CoQ10 replenishes what gets
-                  depleted. You support cardiovascular health without destroying
-                  the muscles you need to live your life.
+                  The 2400mg red yeast rice protocol manages cholesterol production more gently. When combined with 200mg of CoQ10, you're protecting the muscle cells you need for basic mobility.
                 </p>
               </div>
             </div>
@@ -330,7 +294,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F4b9e986873394d659b280ed8cbebfe03?format=webp&width=800"
-                  alt="Woman struggling to swallow large pills highlighting the compliance challenges"
+                  alt="Thyroid patient comparing difficult pill swallowing to easy gummy format"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -338,39 +302,27 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  4. You Can't Take A Pill You Can't Swallow
+                  4. You're Already Taking Synthroid Every Morning—Gummies Are Easier Than More Pills
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  38% of adults struggle to swallow pills.
+                  If you have hypothyroidism, you already know the morning routine. Wake up. Take levothyroxine on an empty stomach. Wait 30 minutes. No coffee. No food.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  If you already have FH, you're probably taking multiple
-                  medications. Adding another horse-sized statin pill creates a
-                  barrier. You miss doses. You dread mornings. You eventually
-                  stop taking it altogether.
+                  Now your doctor wants to add a statin. Another horse-sized pill to swallow. Another medication to track. Another reason to dread mornings.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The solution isn't willpower. It's delivery format.
+                  38% of adults struggle to swallow pills. When your cholesterol support comes in a raspberry-flavored gummy instead of a chalky tablet, daily adherence becomes effortless.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  When your cholesterol support comes in a raspberry-flavored
-                  gummy instead of a chalky pill you gag on, daily adherence
-                  becomes effortless. No water bottle required. No gagging. No
-                  skipped doses because you "forgot" but really you just
-                  couldn't face choking it down again.
+                  No water bottle required. No gagging. No skipped doses because you "forgot" but really you just couldn't face choking down another pill.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  One user put it simply:{" "}
-                  <span className="font-semibold">
-                    "I refused statins. My doctor thought it was the statin
-                    working. I told him and he was okay with it based on my
-                    labs."
-                  </span>
+                  One user put it simply: <span className="font-semibold">"I refused statins. My doctor thought it was the statin working. I told him and he was okay with it based on my labs."</span>
                 </p>
               </div>
             </div>
@@ -383,7 +335,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F73b1fc3548b24ff299e758169930c05b?format=webp&width=800"
-                  alt="Warning symbol over cheap red yeast rice bottle showing citrinin contamination risk"
+                  alt="Woman experiencing brain fog from thyroid condition and statins"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -391,33 +343,31 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  5. Cheap Red Yeast Rice Could Destroy Your Kidneys
+                  5. Your Thyroid Already Makes You Tired—Don't Add "Zombie Mode"
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Poorly fermented red yeast rice contains something called
-                  citrinin. It's a kidney toxin that accumulates over time.
+                  People with hypothyroidism describe brain fog as "walking through wet cement." You forget phone numbers. You lose words mid-sentence. You wonder if this is early dementia or just your thyroid.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Generic "bargain bin" red yeast rice supplements often fail
-                  third-party testing for this contaminant. The FDA has issued
-                  warnings about it.
+                  Now add statin side effects to that equation.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  The difference between pharmaceutical-grade and generic red
-                  yeast rice is massive. Clinical doses (2400mg) require
-                  rigorous fermentation control, batch testing, and
-                  citrinin-free certification. Not the unregulated production
-                  methods used for $9.99 bottles at the supplement store.
+                  Patients report "Total Global Amnesia" episodes lasting hours. Others describe becoming "non-functional zombies" who couldn't feed themselves until they stopped the drug.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  For someone already battling thyroid-related cognitive symptoms, this risk is unacceptable. You need mental clarity to work, to drive, to care for your family.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Your brain uses more energy than any other organ. When statins deplete CoQ10, your brain cells can't generate the power they need to function properly.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  You need confirmation that every serving delivers 2400mg of
-                  red yeast rice and 200mg of CoQ10—without the toxic
-                  contaminants that make you wonder if you're trading one health
-                  problem for another.
+                  The 2400mg red yeast rice plus 200mg CoQ10 protocol supports cholesterol management while protecting the mitochondrial energy production your brain depends on.
                 </p>
               </div>
             </div>
@@ -430,7 +380,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F6d1dd042de974beb94205f451a6b0524?format=webp&width=800"
-                  alt="Hand taking Lunessa Red Yeast Rice + CoQ10 gummy from bottle showing easy compliance"
+                  alt="Warning symbol showing citrinin contamination risk in cheap red yeast rice"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -438,46 +388,45 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  6. Lunessa: 2400mg Red Yeast Rice + 200mg CoQ10 in Gummy Form
+                  6. Cheap Red Yeast Rice Could Contain Kidney Toxins
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  After understanding what a safe, effective natural cholesterol
-                  protocol requires—clinical dosing (2400mg red yeast rice),
-                  protective CoQ10 (200mg), citrinin-free purity, and a format
-                  you'll actually take—the question becomes: which product
-                  delivers all of this?
+                  Not all red yeast rice supplements are the same. Poorly fermented products contain citrinin, a kidney toxin that accumulates over time.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa is the only red yeast rice and CoQ10 formula in gummy
-                  form that meets these standards:
+                  Generic "bargain bin" supplements often fail third-party testing. The FDA has issued warnings about contamination.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Clinical doses require rigorous fermentation control, batch testing, and citrinin-free certification. That's the difference between pharmaceutical-grade red yeast rice and unregulated $9.99 bottles.
+                </p>
+
+                <p className="text-lg leading-relaxed mb-4 text-slate-700">
+                  Lunessa delivers:
                 </p>
 
                 <ul className="list-disc pl-6 mb-4 space-y-2 text-lg leading-relaxed text-slate-700">
                   <li>
-                    2400mg red yeast rice per serving (the clinical dose studied
-                    for cholesterol management)
+                    2400mg red yeast rice per serving (the clinical dose studied for cholesterol management)
                   </li>
                   <li>
-                    200mg CoQ10 per serving (protective dosing for mitochondrial
-                    energy)
+                    200mg CoQ10 per serving (protective dosing for mitochondrial energy)
                   </li>
                   <li>
-                    Third-party tested & certified citrinin-free
-                    (pharmaceutical-grade fermentation, zero kidney toxins)
+                    Third-party tested and certified citrinin-free (zero kidney toxins)
                   </li>
-                  <li>Gummy format (no horse-sized pills to choke down)</li>
+                  <li>Gummy format (no horse-sized pills)</li>
                 </ul>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  People share success stories across forums:
+                  People with hypothyroidism share success stories:
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
                   <span className="font-semibold">
-                    "I've been taking it for ~6 months and my lipid levels have
-                    changed for the better enormously... LDL halved."
+                    "I've been taking it for ~6 months and my lipid levels have changed for the better enormously... LDL halved."
                   </span>
                 </p>
 
@@ -489,8 +438,7 @@ export default function Index() {
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
                   <span className="font-semibold">
-                    "My cardiologist recommended red yeast rice and my
-                    cholesterol went from 245 to 177 without changing my diet."
+                    "My cardiologist recommended red yeast rice and my cholesterol went from 245 to 177 without changing my diet."
                   </span>
                 </p>
               </div>
@@ -504,7 +452,7 @@ export default function Index() {
               <div>
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F89362d31c45c4db0a0fac901defcd80b?format=webp&width=800"
-                  alt="Happy woman holding Lunessa Red Yeast Rice + CoQ10 bottle"
+                  alt="Doctor explaining thyroid-cholesterol connection to patient"
                   className="w-full aspect-square object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -512,43 +460,31 @@ export default function Index() {
               {/* Content on the right */}
               <div>
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
-                  7. Join Thousands Who've Stopped Accepting Statin Side Effects
-                  As "Normal"
+                  7. Your Doctor Might Not Know About The Thyroid-Cholesterol Connection
                 </h2>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Big pharma generates billions annually from statin
-                  prescriptions. They manage your numbers while dismissing
-                  quality-of-life destruction as "necessary" for people with
-                  genetic cholesterol.
+                  Modern medicine has fractured your body into disconnected systems. Your endocrinologist looks at TSH. If it's 3.8, they say you're fine. Your cardiologist looks at LDL. If it's 240, they prescribe a statin.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  But when thousands of people with FH refuse to go back to
-                  prescription dependency after discovering the 2400mg red yeast
-                  rice plus 200mg CoQ10 protocol, that tells you something.
+                  Nobody connects the dots.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Real results from real people:
+                  Nobody tells you: "Your cholesterol is high because your thyroid is low."
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  <span className="font-semibold">
-                    "Red yeast rice plus CoQ10 lowered my LDL from 148 to 55.
-                    Yes, in the U.S."
-                  </span>
+                  Before the 1970s, doctors understood this connection. High cholesterol was how they diagnosed hypothyroidism. Modern specialization broke that knowledge.
                 </p>
 
                 <p className="text-lg leading-relaxed mb-4 text-slate-700">
-                  Lunessa gives you the freedom to manage your genetic
-                  cholesterol on your own terms. Zero prescription gatekeeping.
-                  Zero doctor appointments to get your refill. Zero insurance
-                  battles while feeling worse than before you started.
+                  The result: You get treated for a number instead of a mechanism. Your statin lowers cholesterol by forcing your liver to stop production. But it doesn't fix the real problem—your liver can't clear cholesterol because thyroid hormone isn't signaling it to build LDL receptors.
                 </p>
 
                 <p className="text-lg leading-relaxed font-semibold text-slate-900">
-                  Your body. Your choice. Your results.
+                  Lunessa addresses what levothyroxine alone cannot fix. It supports the liver's cholesterol clearance while protecting your energy reserves.
                 </p>
               </div>
             </div>
@@ -557,6 +493,14 @@ export default function Index() {
           {/* Final CTA Section */}
           <div className="bg-gradient-to-br from-rose-50 to-red-50 rounded-xl p-8 shadow-xl border-2 border-rose-200 my-16">
             <div className="max-w-2xl mx-auto text-center">
+              <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-slate-900">
+                Limited-Time Offer: Buy 2 Get 1 Free
+              </h2>
+
+              <p className="text-lg leading-relaxed mb-6 text-slate-700">
+                Clinical-dose red yeast rice (2400mg) + protective CoQ10 (200mg) in gummy form. Third-party tested. Citrinin-free. Designed for people managing both thyroid conditions and cholesterol.
+              </p>
+
               <div className="bg-white rounded-lg shadow-md mb-6 overflow-hidden">
                 <img
                   src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe07f1bc2ad0d452988c5400fc86d1365?format=webp&width=800"
@@ -566,8 +510,7 @@ export default function Index() {
               </div>
 
               <p className="text-sm text-slate-600 mb-6">
-                This limited-time deal is in high demand and stock keeps selling
-                out.
+                Free shipping on orders over $50. 90-day guarantee.
               </p>
 
               <a
